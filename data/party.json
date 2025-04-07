@@ -1,0 +1,38 @@
+[
+  {
+    "id": 103,
+    "name": "Tir McDohl",
+    "image_url": "/static/img/Tir Mcdohl.png",
+    "recruitment_info": "Main character, automatically recruited."
+  },
+  {
+    "id": 25,
+    "name": "Gremio",
+    "image_url": "/static/img/Gremio.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 9,
+    "name": "Cleo",
+    "image_url": "/static/img/Cleo.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 80,
+    "name": "Pahn",
+    "image_url": "/static/img/Pahn.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 104,
+    "name": "Valeria",
+    "image_url": "/static/img/Valeria.png",
+    "recruitment_info": "Joins if chosen over Kasumi in the Great Forest."
+  },
+  {
+    "id": 99,
+    "name": "Ted",
+    "image_url": "/static/img/Ted.png",
+    "recruitment_info": "Recruitment information not available."
+  }
+]

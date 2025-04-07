@@ -1,0 +1,668 @@
+[
+  {
+    "id": 1,
+    "name": "Alen",
+    "image_url": "/static/img/Alen.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 2,
+    "name": "Anji",
+    "image_url": "/static/img/Anji.png",
+    "recruitment_info": "Recruited after a battle at the pirate hideout."
+  },
+  {
+    "id": 3,
+    "name": "Antonio",
+    "image_url": "/static/img/Antonio.png",
+    "recruitment_info": "Recruited after speaking to Marie with a full inn."
+  },
+  {
+    "id": 4,
+    "name": "Apple",
+    "image_url": "/static/img/Apple.png",
+    "recruitment_info": "Joins automatically with Mathiu."
+  },
+  {
+    "id": 5,
+    "name": "Blackman",
+    "image_url": "/static/img/Blackman.png",
+    "recruitment_info": "Recruited in his farm after agreeing not to step on his crops."
+  },
+  {
+    "id": 6,
+    "name": "Camille",
+    "image_url": "/static/img/Camille.png",
+    "recruitment_info": "Joins after Viktor brings you to Seika."
+  },
+  {
+    "id": 7,
+    "name": "Chandler",
+    "image_url": "/static/img/Chandler.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 8,
+    "name": "Chapman",
+    "image_url": "/static/img/Chapman.png",
+    "recruitment_info": "Recruited in Antei."
+  },
+  {
+    "id": 9,
+    "name": "Cleo",
+    "image_url": "/static/img/Cleo.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 10,
+    "name": "Clive",
+    "image_url": "/static/img/Clive.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 11,
+    "name": "Crowley",
+    "image_url": "/static/img/Crowley.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 12,
+    "name": "Eikei",
+    "image_url": "/static/img/Eikei.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 13,
+    "name": "Eileen",
+    "image_url": "/static/img/Eileen.png",
+    "recruitment_info": "Joins automatically with Lepant."
+  },
+  {
+    "id": 14,
+    "name": "Esmeralda",
+    "image_url": "/static/img/Esmeralda.png",
+    "recruitment_info": "Recruited after giving her an Opal."
+  },
+  {
+    "id": 15,
+    "name": "Flik",
+    "image_url": "/static/img/Flik.png",
+    "recruitment_info": "Joins automatically after the battle at the fortress."
+  },
+  {
+    "id": 16,
+    "name": "Fu Su Lu",
+    "image_url": "/static/img/Fu-Su-Lu.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 17,
+    "name": "Fukian",
+    "image_url": "/static/img/Fukian.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 18,
+    "name": "Fuma",
+    "image_url": "/static/img/Fuma.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 19,
+    "name": "Futch",
+    "image_url": "/static/img/Futch.png",
+    "recruitment_info": "Joins automatically after the Dragon Knights event."
+  },
+  {
+    "id": 20,
+    "name": "Gasper",
+    "image_url": "/static/img/Gasper.png",
+    "recruitment_info": "Recruited after winning a dice game against him."
+  },
+  {
+    "id": 21,
+    "name": "Gen",
+    "image_url": "/static/img/Gen.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 22,
+    "name": "Georges",
+    "image_url": "/static/img/Georges.png",
+    "recruitment_info": "Recruited in Rikon after playing his game."
+  },
+  {
+    "id": 23,
+    "name": "Giovanni",
+    "image_url": "/static/img/Giovanni.png",
+    "recruitment_info": "Joins automatically with Lepant."
+  },
+  {
+    "id": 24,
+    "name": "Gon",
+    "image_url": "/static/img/Gon.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 25,
+    "name": "Gremio",
+    "image_url": "/static/img/Gremio.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 26,
+    "name": "Grenseal",
+    "image_url": "/static/img/Grenseal.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 27,
+    "name": "Griffith",
+    "image_url": "/static/img/Griffith.png",
+    "recruitment_info": "Joins after being defeated in battle at the fortress."
+  },
+  {
+    "id": 28,
+    "name": "Hellion",
+    "image_url": "/static/img/Hellion.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 29,
+    "name": "Hix",
+    "image_url": "/static/img/Hix.png",
+    "recruitment_info": "Recruited in Warriors' Village."
+  },
+  {
+    "id": 30,
+    "name": "Hugo",
+    "image_url": "/static/img/Hugo.png",
+    "recruitment_info": "Joins automatically as part of the castle staff."
+  },
+  {
+    "id": 31,
+    "name": "Humphrey",
+    "image_url": "/static/img/Humphrey.png",
+    "recruitment_info": "Joins automatically after the Dragon Knights event."
+  },
+  {
+    "id": 32,
+    "name": "Ivanov",
+    "image_url": "/static/img/Ivanov.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 33,
+    "name": "Jabba",
+    "image_url": "/static/img/Jabba.png",
+    "recruitment_info": "Recruited after showing him an antique."
+  },
+  {
+    "id": 34,
+    "name": "Jeane",
+    "image_url": "/static/img/Jeane.png",
+    "recruitment_info": "Recruited from Antei."
+  },
+  {
+    "id": 35,
+    "name": "Joshua",
+    "image_url": "/static/img/Joshua.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 36,
+    "name": "Juppo",
+    "image_url": "/static/img/Juppo.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 37,
+    "name": "Kage",
+    "image_url": "/static/img/Kage.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 38,
+    "name": "Kai",
+    "image_url": "/static/img/Kai.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 39,
+    "name": "Kamandol",
+    "image_url": "/static/img/Kamandol.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 40,
+    "name": "Kanak",
+    "image_url": "/static/img/Kanak.png",
+    "recruitment_info": "Joins automatically with Anji."
+  },
+  {
+    "id": 41,
+    "name": "Kasim",
+    "image_url": "/static/img/Kasim.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 42,
+    "name": "Kasios",
+    "image_url": "/static/img/Kasios.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 43,
+    "name": "Kasumi",
+    "image_url": "/static/img/Kasumi.png",
+    "recruitment_info": "Joins if chosen over Valeria in the Great Forest."
+  },
+  {
+    "id": 44,
+    "name": "Kessler",
+    "image_url": "/static/img/Kessler.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 45,
+    "name": "Kimberly",
+    "image_url": "/static/img/Kimberly.png",
+    "recruitment_info": "Joins after forging the documents."
+  },
+  {
+    "id": 46,
+    "name": "Kirke",
+    "image_url": "/static/img/Kirke.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 47,
+    "name": "Kirkis",
+    "image_url": "/static/img/Kirkis.png",
+    "recruitment_info": "Joins before going to the Great Forest."
+  },
+  {
+    "id": 48,
+    "name": "Kreutz",
+    "image_url": "/static/img/Kreutz.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 49,
+    "name": "Krim",
+    "image_url": "/static/img/Krim.png",
+    "recruitment_info": "Joins automatically after helping with Lepant's mission."
+  },
+  {
+    "id": 50,
+    "name": "Kun To",
+    "image_url": "/static/img/Kun To.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 51,
+    "name": "Kuromimi",
+    "image_url": "/static/img/Kuromimi.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 52,
+    "name": "Kwanda",
+    "image_url": "/static/img/Kwanda.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 53,
+    "name": "Lady Leknatt",
+    "image_url": "/static/img/Lady Leknatt.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 54,
+    "name": "Ledon",
+    "image_url": "/static/img/Ledon.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 55,
+    "name": "Leon",
+    "image_url": "/static/img/Leon.png",
+    "recruitment_info": "Joins when spoken to at Kalekka after a certain point."
+  },
+  {
+    "id": 56,
+    "name": "Leonardo",
+    "image_url": "/static/img/Leonardo.png",
+    "recruitment_info": "Joins automatically with Anji."
+  },
+  {
+    "id": 57,
+    "name": "Lepant",
+    "image_url": "/static/img/Lepant.png",
+    "recruitment_info": "Joins after his mansion event in Kouan."
+  },
+  {
+    "id": 58,
+    "name": "Lester",
+    "image_url": "/static/img/Lester.png",
+    "recruitment_info": "Recruited in Rikon."
+  },
+  {
+    "id": 59,
+    "name": "Lorelai",
+    "image_url": "/static/img/Lorelai.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 60,
+    "name": "Lotte",
+    "image_url": "/static/img/Lotte.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 61,
+    "name": "Luc",
+    "image_url": "/static/img/Luc.png",
+    "recruitment_info": "Joins automatically as part of the castle staff."
+  },
+  {
+    "id": 62,
+    "name": "Luikan",
+    "image_url": "/static/img/Luikan.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 63,
+    "name": "Maas",
+    "image_url": "/static/img/Maas.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 64,
+    "name": "Mace",
+    "image_url": "/static/img/Mace.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 65,
+    "name": "Marco",
+    "image_url": "/static/img/Marco.png",
+    "recruitment_info": "Recruited by winning her gambling game."
+  },
+  {
+    "id": 66,
+    "name": "Marie",
+    "image_url": "/static/img/Marie.png",
+    "recruitment_info": "Recruited in Seika."
+  },
+  {
+    "id": 67,
+    "name": "Mathiu",
+    "image_url": "/static/img/Mathiu.png",
+    "recruitment_info": "Joins automatically as your strategist."
+  },
+  {
+    "id": 68,
+    "name": "Maximilian",
+    "image_url": "/static/img/Maximilian.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 69,
+    "name": "Meese",
+    "image_url": "/static/img/Meese.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 70,
+    "name": "Meg",
+    "image_url": "/static/img/Meg.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 71,
+    "name": "Melodye",
+    "image_url": "/static/img/Melodye.png",
+    "recruitment_info": "Recruited after finding a Sound Crystal."
+  },
+  {
+    "id": 72,
+    "name": "Milia",
+    "image_url": "/static/img/Milia.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 73,
+    "name": "Milich",
+    "image_url": "/static/img/Milich.png",
+    "recruitment_info": "Joins after defeating him and lifting the poison from the castle."
+  },
+  {
+    "id": 74,
+    "name": "Mina",
+    "image_url": "/static/img/Mina.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 75,
+    "name": "Moose",
+    "image_url": "/static/img/Moose.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 76,
+    "name": "Morgan",
+    "image_url": "/static/img/Morgan.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 77,
+    "name": "Mose",
+    "image_url": "/static/img/Mose.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 78,
+    "name": "Odessa",
+    "image_url": "/static/img/Odessa.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 79,
+    "name": "Onil",
+    "image_url": "/static/img/Onil.png",
+    "recruitment_info": "Recruited in Antei."
+  },
+  {
+    "id": 80,
+    "name": "Pahn",
+    "image_url": "/static/img/Pahn.png",
+    "recruitment_info": "Joins at the start of the game."
+  },
+  {
+    "id": 81,
+    "name": "Pesmerga",
+    "image_url": "/static/img/Pasmerga.png",
+    "recruitment_info": "Recruited in Neclord's castle after defeating him."
+  },
+  {
+    "id": 82,
+    "name": "Qlon",
+    "image_url": "/static/img/Qlon.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 83,
+    "name": "Quincy",
+    "image_url": "/static/img/Quincy.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 84,
+    "name": "Rock",
+    "image_url": "/static/img/Rock.png",
+    "recruitment_info": "Recruited in Kouan."
+  },
+  {
+    "id": 85,
+    "name": "Ronnie Bell",
+    "image_url": "/static/img/Ronnie Bell.png",
+    "recruitment_info": "Joins automatically after liberating Pannu Yakuta."
+  },
+  {
+    "id": 86,
+    "name": "Rubi",
+    "image_url": "/static/img/Rubi.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 87,
+    "name": "Sanchez",
+    "image_url": "/static/img/Sanchez.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 88,
+    "name": "Sancho",
+    "image_url": "/static/img/Sancho.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 89,
+    "name": "Sansuke",
+    "image_url": "/static/img/Sansuke.png",
+    "recruitment_info": "Recruited in Seika."
+  },
+  {
+    "id": 90,
+    "name": "Sarah",
+    "image_url": "/static/img/Sarah.png",
+    "recruitment_info": "Recruited in Teien."
+  },
+  {
+    "id": 91,
+    "name": "Sergei",
+    "image_url": "/static/img/Sergei.png",
+    "recruitment_info": "Recruited in Kaku."
+  },
+  {
+    "id": 92,
+    "name": "Sheena",
+    "image_url": "/static/img/Sheena.png",
+    "recruitment_info": "Recruited in Teien."
+  },
+  {
+    "id": 93,
+    "name": "Sonya Shulen",
+    "image_url": "/static/img/Sonya Shulen.png",
+    "recruitment_info": "Joins after being defeated at Shasarazade."
+  },
+  {
+    "id": 94,
+    "name": "Stallion",
+    "image_url": "/static/img/Stallion.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 95,
+    "name": "Sydonia",
+    "image_url": "/static/img/Sydonia.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 96,
+    "name": "Sylvina",
+    "image_url": "/static/img/Sylvina.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 97,
+    "name": "Taggart",
+    "image_url": "/static/img/Taggart.png",
+    "recruitment_info": "Joins automatically as part of the Liberation Army."
+  },
+  {
+    "id": 98,
+    "name": "Tai Ho",
+    "image_url": "/static/img/Tai Ho.png",
+    "recruitment_info": "Wins a game of dice in Kaku."
+  },
+  {
+    "id": 99,
+    "name": "Ted",
+    "image_url": "/static/img/Ted.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 100,
+    "name": "Templeton",
+    "image_url": "/static/img/Templeton.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 101,
+    "name": "Tengaar",
+    "image_url": "/static/img/Tengaar.png",
+    "recruitment_info": "Joins automatically with Hix."
+  },
+  {
+    "id": 102,
+    "name": "Tesla",
+    "image_url": "/static/img/Tesla.png",
+    "recruitment_info": "Recruited after Kimberly joins."
+  },
+  {
+    "id": 103,
+    "name": "Tir McDohl",
+    "image_url": "/static/img/Tir Mcdohl.png",
+    "recruitment_info": "Main character, automatically recruited."
+  },
+  {
+    "id": 104,
+    "name": "Valeria",
+    "image_url": "/static/img/Valeria.png",
+    "recruitment_info": "Joins if chosen over Kasumi in the Great Forest."
+  },
+  {
+    "id": 105,
+    "name": "Varkas",
+    "image_url": "/static/img/Varkas.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 106,
+    "name": "Viki",
+    "image_url": "/static/img/Viki.png",
+    "recruitment_info": "Recruited at the Great Forest entrance."
+  },
+  {
+    "id": 107,
+    "name": "Viktor",
+    "image_url": "/static/img/Viktor.png",
+    "recruitment_info": "Joins after escaping Gregminster."
+  },
+  {
+    "id": 108,
+    "name": "Vincent de Boule",
+    "image_url": "/static/img/Vincent de Boule.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 109,
+    "name": "Warren",
+    "image_url": "/static/img/Warren.png",
+    "recruitment_info": "Joins after the battle at Moravia Castle."
+  },
+  {
+    "id": 110,
+    "name": "Window",
+    "image_url": "/static/img/Window.png",
+    "recruitment_info": "Recruitment information not available."
+  },
+  {
+    "id": 111,
+    "name": "Yam Koo",
+    "image_url": "/static/img/Yam-Koo.png",
+    "recruitment_info": "Joins automatically with Tai Ho."
+  }
+]

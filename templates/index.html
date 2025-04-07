@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suikoden Display</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <!-- Socket.IO Client Script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Suikoden Display</h1>
+    </header>
+
+    <main>
+        <div class="container">
+            <!-- Left Panel: Party Display (2x3 grid) -->
+            <section class="panel party-panel">
+                <h2>Party Members</h2>
+                <div class="party-grid">
+                    <!-- Party members will be populated dynamically -->
+                    <div class="party-slot empty" data-position="0"><div class="empty-text">Empty</div></div>
+                    <div class="party-slot empty" data-position="1"><div class="empty-text">Empty</div></div>
+                    <div class="party-slot empty" data-position="2"><div class="empty-text">Empty</div></div>
+                    <div class="party-slot empty" data-position="3"><div class="empty-text">Empty</div></div>
+                    <div class="party-slot empty" data-position="4"><div class="empty-text">Empty</div></div>
+                    <div class="party-slot empty" data-position="5"><div class="empty-text">Empty</div></div>
+                </div>
+            </section>
+
+            <!-- Right Panel: 108 Stars List -->
+            <section class="panel stars-panel">
+                <h2>108 Stars of Destiny</h2>
+                <div class="search-container">
+                    <input type="text" id="star-search" placeholder="Search characters...">
+                </div>
+                <div class="stars-list">
+                    <!-- Stars will be populated dynamically, organized alphabetically -->
+                    <div id="stars-container"></div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Bottom Panel: Character Recruitment Info -->
+        <section class="panel recruitment-panel">
+            <h2>Recruitment Information</h2>
+            <div id="recruitment-display">
+                <div class="character-info">
+                    <div class="character-image">
+                        <img id="selected-character-img" src="{{ url_for('static', filename='img/placeholder.png') }}" alt="Select a character">
+                    </div>
+                    <div class="character-details">
+                        <h3 id="selected-character-name">Select a character</h3>
+                        <p id="selected-character-recruitment">Click on a character name from the 108 Stars list to view their recruitment information.</p>
+                    </div>
+                </div>
+                <div class="party-controls">
+                    <button id="sync-party-button" class="btn btn-primary">Sync Party</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Suikoden Display - Web Interface (Local Mode)</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    
+    <!-- Connection status indicator -->
+    <div id="connection-status" class="disconnected">Connecting to server...</div>
+    
+    <!-- Toast notifications container -->
+    <div class="toast-container"></div>
+</body>
+</html>

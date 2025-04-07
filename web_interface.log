@@ -1,0 +1,1509 @@
+2025-04-06 23:25:44,378 - suikoden_web - ERROR - Failed to load character data: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\characters.json'
+2025-04-06 23:25:44,379 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:25:44,547 - suikoden_web - INFO - Created placeholder image at C:\Users\ahi2h\OneDrive\Desktop\Suikoden Display\static\img\placeholder.png
+2025-04-06 23:25:44,548 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:25:44,782 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-06 23:25:44,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 23:25:44,783 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 23:25:45,984 - suikoden_web - ERROR - Failed to load character data: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\characters.json'
+2025-04-06 23:25:46,009 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:25:46,015 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:25:46,047 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 23:25:46,055 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-06 23:26:32,624 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-06 23:26:32,626 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:26:32,630 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:26:32,682 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-06 23:26:32,683 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 23:26:32,683 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 23:26:33,518 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-06 23:26:33,518 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:26:33,522 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:26:33,546 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 23:26:33,549 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-06 23:27:03,067 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:03] "GET / HTTP/1.1" 200 -
+2025-04-06 23:27:03,475 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:03] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-06 23:27:03,497 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:03] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-06 23:27:03,515 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:03] "GET /static/img/placeholder.png HTTP/1.1" 200 -
+2025-04-06 23:27:03,922 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:03] "GET /socket.io/?EIO=4&transport=polling&t=POEIOxE HTTP/1.1" 200 -
+2025-04-06 23:27:04,038 - suikoden_web - INFO - Client connected: SyVZCJeNAvgs1X-HAAAB
+2025-04-06 23:27:04,042 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:04] "POST /socket.io/?EIO=4&transport=polling&t=POEIOz5&sid=zlcGI61T2LIJC5B4AAAA HTTP/1.1" 200 -
+2025-04-06 23:27:04,046 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:04] "GET /socket.io/?EIO=4&transport=polling&t=POEIOz9&sid=zlcGI61T2LIJC5B4AAAA HTTP/1.1" 200 -
+2025-04-06 23:27:04,289 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:04] "GET / HTTP/1.1" 200 -
+2025-04-06 23:27:04,993 - suikoden_web - INFO - Sending initial data to client
+2025-04-06 23:27:04,993 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:04] "POST /socket.io/?EIO=4&transport=polling&t=POEIPCQ&sid=zlcGI61T2LIJC5B4AAAA HTTP/1.1" 200 -
+2025-04-06 23:27:05,028 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:05] "GET /socket.io/?EIO=4&transport=polling&t=POEIPCQ.0&sid=zlcGI61T2LIJC5B4AAAA HTTP/1.1" 200 -
+2025-04-06 23:27:05,207 - werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 23:27:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-06 23:28:44,779 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-06 23:28:44,779 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:28:44,786 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:28:44,844 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-06 23:28:44,844 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 23:28:44,844 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 23:28:45,758 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-06 23:28:45,759 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-06 23:28:45,763 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-06 23:28:45,788 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 23:28:45,796 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:04:07,607 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:04:07,607 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-07 00:04:07,613 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:04:07,658 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:04:07,661 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:04:07,662 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:04:08,175 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:04:08,175 - suikoden_web - WARNING - Failed to load party data, using empty party: [Errno 2] No such file or directory: 'C:\\Users\\ahi2h\\OneDrive\\Desktop\\Suikoden Display\\data\\party.json'
+2025-04-07 00:04:08,179 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:04:08,194 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:04:08,244 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:05:03,478 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:03] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:03,835 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:03] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:05:03,873 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:05:03,905 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:05:04,136 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:04] "GET /socket.io/?EIO=4&transport=polling&t=POER5dv HTTP/1.1" 200 -
+2025-04-07 00:05:04,185 - suikoden_web - INFO - Client connected: PQ34VXlPvp6JxyevAAAB
+2025-04-07 00:05:04,186 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:04] "POST /socket.io/?EIO=4&transport=polling&t=POER5ej&sid=2neZ0SSraZu312SWAAAA HTTP/1.1" 200 -
+2025-04-07 00:05:04,190 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:04] "GET /socket.io/?EIO=4&transport=polling&t=POER5en&sid=2neZ0SSraZu312SWAAAA HTTP/1.1" 200 -
+2025-04-07 00:05:04,335 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:04] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:05,040 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:05] "GET /socket.io/?EIO=4&transport=polling&t=POER5s1&sid=2neZ0SSraZu312SWAAAA HTTP/1.1" 200 -
+2025-04-07 00:05:05,168 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:05:39,600 - suikoden_web - INFO - Client disconnected: PQ34VXlPvp6JxyevAAAB
+2025-04-07 00:05:39,601 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "GET /socket.io/?EIO=4&transport=websocket&sid=2neZ0SSraZu312SWAAAA HTTP/1.1" 200 -
+2025-04-07 00:05:39,632 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:39,714 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:05:39,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:05:39,748 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:05:39,916 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "GET /socket.io/?EIO=4&transport=polling&t=POEREMt HTTP/1.1" 200 -
+2025-04-07 00:05:39,918 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:39] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:40,013 - suikoden_web - INFO - Client connected: hNnAw3luP_iqZS6PAAAD
+2025-04-07 00:05:40,015 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:40] "POST /socket.io/?EIO=4&transport=polling&t=POEREOb&sid=1xK4_V4WFjRtUbVOAAAC HTTP/1.1" 200 -
+2025-04-07 00:05:40,017 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:40] "GET /socket.io/?EIO=4&transport=polling&t=POEREOc&sid=1xK4_V4WFjRtUbVOAAAC HTTP/1.1" 200 -
+2025-04-07 00:05:40,061 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:05:40,062 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:40] "POST /socket.io/?EIO=4&transport=polling&t=POEREPK&sid=1xK4_V4WFjRtUbVOAAAC HTTP/1.1" 200 -
+2025-04-07 00:05:40,065 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:40] "GET /socket.io/?EIO=4&transport=polling&t=POEREPL&sid=1xK4_V4WFjRtUbVOAAAC HTTP/1.1" 200 -
+2025-04-07 00:05:45,393 - suikoden_web - INFO - Client disconnected: hNnAw3luP_iqZS6PAAAD
+2025-04-07 00:05:45,394 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET /socket.io/?EIO=4&transport=websocket&sid=1xK4_V4WFjRtUbVOAAAC HTTP/1.1" 200 -
+2025-04-07 00:05:45,415 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:45,514 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:05:45,531 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:05:45,548 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:05:45,648 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET /socket.io/?EIO=4&transport=polling&t=POERFmd HTTP/1.1" 200 -
+2025-04-07 00:05:45,650 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:45,733 - suikoden_web - INFO - Client connected: nVViXTGNz3nbMjqaAAAF
+2025-04-07 00:05:45,734 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "POST /socket.io/?EIO=4&transport=polling&t=POERFn_&sid=G6l6eKmQpDLUjpTiAAAE HTTP/1.1" 200 -
+2025-04-07 00:05:45,737 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET /socket.io/?EIO=4&transport=polling&t=POERFo0&sid=G6l6eKmQpDLUjpTiAAAE HTTP/1.1" 200 -
+2025-04-07 00:05:45,780 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:05:45,781 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "POST /socket.io/?EIO=4&transport=polling&t=POERFoi&sid=G6l6eKmQpDLUjpTiAAAE HTTP/1.1" 200 -
+2025-04-07 00:05:45,782 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:45] "GET /socket.io/?EIO=4&transport=polling&t=POERFoi.0&sid=G6l6eKmQpDLUjpTiAAAE HTTP/1.1" 200 -
+2025-04-07 00:05:49,713 - suikoden_web - INFO - Client disconnected: nVViXTGNz3nbMjqaAAAF
+2025-04-07 00:05:49,714 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "GET /socket.io/?EIO=4&transport=websocket&sid=G6l6eKmQpDLUjpTiAAAE HTTP/1.1" 200 -
+2025-04-07 00:05:49,737 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:49,808 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:05:49,824 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:05:49,835 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:05:49,948 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "GET / HTTP/1.1" 200 -
+2025-04-07 00:05:49,952 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:49] "GET /socket.io/?EIO=4&transport=polling&t=POERGpq HTTP/1.1" 200 -
+2025-04-07 00:05:50,022 - suikoden_web - INFO - Client connected: 7gvjPxCCtcDH2AQAAAAH
+2025-04-07 00:05:50,023 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:50] "POST /socket.io/?EIO=4&transport=polling&t=POERGq_&sid=KyGIDihusrIWxYNmAAAG HTTP/1.1" 200 -
+2025-04-07 00:05:50,028 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:50] "GET /socket.io/?EIO=4&transport=polling&t=POERGr0&sid=KyGIDihusrIWxYNmAAAG HTTP/1.1" 200 -
+2025-04-07 00:05:50,068 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:05:50,068 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:50] "POST /socket.io/?EIO=4&transport=polling&t=POERGrg&sid=KyGIDihusrIWxYNmAAAG HTTP/1.1" 200 -
+2025-04-07 00:05:50,070 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:05:50] "GET /socket.io/?EIO=4&transport=polling&t=POERGrg.0&sid=KyGIDihusrIWxYNmAAAG HTTP/1.1" 200 -
+2025-04-07 00:06:06,885 - suikoden_web - INFO - Client disconnected: 7gvjPxCCtcDH2AQAAAAH
+2025-04-07 00:06:06,886 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:06:06] "GET /socket.io/?EIO=4&transport=websocket&sid=KyGIDihusrIWxYNmAAAG HTTP/1.1" 200 -
+2025-04-07 00:07:24,837 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:07:24,839 - suikoden_web - INFO - Party file doesn't exist, creating default party.json
+2025-04-07 00:07:24,840 - suikoden_web - INFO - Created default party.json file
+2025-04-07 00:07:24,847 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:07:25,115 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:07:25,116 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:07:25,116 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:07:26,068 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:07:26,093 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:07:26,101 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:07:26,134 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:07:26,140 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:07:46,514 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:46] "GET / HTTP/1.1" 200 -
+2025-04-07 00:07:47,172 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:07:47,175 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:07:47,183 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:07:47,682 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "GET /socket.io/?EIO=4&transport=polling&t=POERjZ7 HTTP/1.1" 200 -
+2025-04-07 00:07:47,801 - suikoden_web - INFO - Client connected: hGNWUekB3iS7J10_AAAB
+2025-04-07 00:07:47,803 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "POST /socket.io/?EIO=4&transport=polling&t=POERjb3&sid=q2e94l8ydwO3mAO_AAAA HTTP/1.1" 200 -
+2025-04-07 00:07:47,809 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:47] "GET /socket.io/?EIO=4&transport=polling&t=POERjb7&sid=q2e94l8ydwO3mAO_AAAA HTTP/1.1" 200 -
+2025-04-07 00:07:48,099 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:48] "GET / HTTP/1.1" 200 -
+2025-04-07 00:07:48,946 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:48] "GET /socket.io/?EIO=4&transport=polling&t=POERjs8&sid=q2e94l8ydwO3mAO_AAAA HTTP/1.1" 200 -
+2025-04-07 00:07:48,946 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:07:48,947 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:07:48] "POST /socket.io/?EIO=4&transport=polling&t=POERjs7&sid=q2e94l8ydwO3mAO_AAAA HTTP/1.1" 200 -
+2025-04-07 00:08:38,003 - suikoden_web - INFO - Client disconnected: hGNWUekB3iS7J10_AAAB
+2025-04-07 00:08:38,011 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET /socket.io/?EIO=4&transport=websocket&sid=q2e94l8ydwO3mAO_AAAA HTTP/1.1" 200 -
+2025-04-07 00:08:38,034 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET / HTTP/1.1" 200 -
+2025-04-07 00:08:38,152 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:08:38,164 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:08:38,165 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:08:38,427 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET / HTTP/1.1" 200 -
+2025-04-07 00:08:38,430 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET /socket.io/?EIO=4&transport=polling&t=POERvxE HTTP/1.1" 200 -
+2025-04-07 00:08:38,505 - suikoden_web - INFO - Client connected: K0a8sVc9Wo7fTGhPAAAD
+2025-04-07 00:08:38,507 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "POST /socket.io/?EIO=4&transport=polling&t=POERvzX&sid=D7GPx9PRpuTqFDP8AAAC HTTP/1.1" 200 -
+2025-04-07 00:08:38,510 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET /socket.io/?EIO=4&transport=polling&t=POERvzY&sid=D7GPx9PRpuTqFDP8AAAC HTTP/1.1" 200 -
+2025-04-07 00:08:38,566 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:08:38] "GET /socket.io/?EIO=4&transport=polling&t=POERv-R&sid=D7GPx9PRpuTqFDP8AAAC HTTP/1.1" 200 -
+2025-04-07 00:08:38,588 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:09:01,386 - suikoden_web - INFO - Client disconnected: K0a8sVc9Wo7fTGhPAAAD
+2025-04-07 00:09:01,386 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET /socket.io/?EIO=4&transport=websocket&sid=D7GPx9PRpuTqFDP8AAAC HTTP/1.1" 200 -
+2025-04-07 00:09:01,407 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET / HTTP/1.1" 200 -
+2025-04-07 00:09:01,471 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:09:01,487 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:09:01,487 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:09:01,603 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET /socket.io/?EIO=4&transport=polling&t=POER_cT HTTP/1.1" 200 -
+2025-04-07 00:09:01,606 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET / HTTP/1.1" 200 -
+2025-04-07 00:09:01,697 - suikoden_web - INFO - Client connected: TgK5DK0R2LRhjIkfAAAF
+2025-04-07 00:09:01,698 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "POST /socket.io/?EIO=4&transport=polling&t=POER_dt&sid=dOUdNtL1j84OG0jUAAAE HTTP/1.1" 200 -
+2025-04-07 00:09:01,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET /socket.io/?EIO=4&transport=polling&t=POER_du&sid=dOUdNtL1j84OG0jUAAAE HTTP/1.1" 200 -
+2025-04-07 00:09:01,754 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:09:01,754 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "POST /socket.io/?EIO=4&transport=polling&t=POER_en&sid=dOUdNtL1j84OG0jUAAAE HTTP/1.1" 200 -
+2025-04-07 00:09:01,756 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:09:01] "GET /socket.io/?EIO=4&transport=polling&t=POER_eo&sid=dOUdNtL1j84OG0jUAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:15,050 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:15:15,051 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:15:15,054 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:15:15,085 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:15:15,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:15:15,086 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:15:15,599 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:15:15,599 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:15:15,605 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:15:15,632 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:15:15,674 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:15:28,421 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:28,687 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:15:28,701 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:15:28,749 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:15:28,832 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "GET /socket.io/?EIO=4&transport=polling&t=POETU8O HTTP/1.1" 200 -
+2025-04-07 00:15:28,969 - suikoden_web - INFO - Client connected: inBwbx1IH-3bIEzAAAAB
+2025-04-07 00:15:28,970 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "POST /socket.io/?EIO=4&transport=polling&t=POETUAj&sid=-TtLT1zPamWUMAMDAAAA HTTP/1.1" 200 -
+2025-04-07 00:15:28,971 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:28] "GET /socket.io/?EIO=4&transport=polling&t=POETUAn&sid=-TtLT1zPamWUMAMDAAAA HTTP/1.1" 200 -
+2025-04-07 00:15:29,063 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:29] "GET /socket.io/?EIO=4&transport=polling&t=POETUBy&sid=-TtLT1zPamWUMAMDAAAA HTTP/1.1" 200 -
+2025-04-07 00:15:29,093 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:15:29,130 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:29] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:44,437 - suikoden_web - INFO - Client disconnected: inBwbx1IH-3bIEzAAAAB
+2025-04-07 00:15:44,437 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET /socket.io/?EIO=4&transport=websocket&sid=-TtLT1zPamWUMAMDAAAA HTTP/1.1" 200 -
+2025-04-07 00:15:44,452 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:44,516 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:15:44,526 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:15:44,527 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:15:44,639 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET /socket.io/?EIO=4&transport=polling&t=POETX_v HTTP/1.1" 200 -
+2025-04-07 00:15:44,642 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:44,707 - suikoden_web - INFO - Client connected: ZV7Z2gOdmlV62Dn1AAAD
+2025-04-07 00:15:44,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "POST /socket.io/?EIO=4&transport=polling&t=POETY0w&sid=8fKSXNvgHttVxQw3AAAC HTTP/1.1" 200 -
+2025-04-07 00:15:44,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET /socket.io/?EIO=4&transport=polling&t=POETY0x&sid=8fKSXNvgHttVxQw3AAAC HTTP/1.1" 200 -
+2025-04-07 00:15:44,764 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:44] "GET /socket.io/?EIO=4&transport=polling&t=POETY1p&sid=8fKSXNvgHttVxQw3AAAC HTTP/1.1" 200 -
+2025-04-07 00:15:44,777 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:15:45,286 - suikoden_web - INFO - Client disconnected: ZV7Z2gOdmlV62Dn1AAAD
+2025-04-07 00:15:45,292 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET /socket.io/?EIO=4&transport=websocket&sid=8fKSXNvgHttVxQw3AAAC HTTP/1.1" 200 -
+2025-04-07 00:15:45,373 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:45,442 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:15:45,446 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:15:45,451 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:15:45,567 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET /socket.io/?EIO=4&transport=polling&t=POETYEQ HTTP/1.1" 200 -
+2025-04-07 00:15:45,570 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:45,659 - suikoden_web - INFO - Client connected: dOhgf3IO8w06trhQAAAF
+2025-04-07 00:15:45,659 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "POST /socket.io/?EIO=4&transport=polling&t=POETYFm&sid=GjmpRuwQcChvmLaQAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:45,664 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET /socket.io/?EIO=4&transport=polling&t=POETYFn&sid=GjmpRuwQcChvmLaQAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:45,713 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:15:45,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "POST /socket.io/?EIO=4&transport=polling&t=POETYGa&sid=GjmpRuwQcChvmLaQAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:45,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:45] "GET /socket.io/?EIO=4&transport=polling&t=POETYGb&sid=GjmpRuwQcChvmLaQAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:50,691 - suikoden_web - INFO - Client disconnected: dOhgf3IO8w06trhQAAAF
+2025-04-07 00:15:50,692 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "GET /socket.io/?EIO=4&transport=websocket&sid=GjmpRuwQcChvmLaQAAAE HTTP/1.1" 200 -
+2025-04-07 00:15:50,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:50,774 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:15:50,786 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:15:50,788 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:15:50,912 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "GET /socket.io/?EIO=4&transport=polling&t=POETZXu HTTP/1.1" 200 -
+2025-04-07 00:15:50,915 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "GET / HTTP/1.1" 200 -
+2025-04-07 00:15:50,981 - suikoden_web - INFO - Client connected: lISZFPxacBmh0OH-AAAH
+2025-04-07 00:15:50,982 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "POST /socket.io/?EIO=4&transport=polling&t=POETZYz&sid=ckjMn0kegQTNM35BAAAG HTTP/1.1" 200 -
+2025-04-07 00:15:50,985 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:50] "GET /socket.io/?EIO=4&transport=polling&t=POETZY-&sid=ckjMn0kegQTNM35BAAAG HTTP/1.1" 200 -
+2025-04-07 00:15:51,029 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:15:51,030 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:51] "GET /socket.io/?EIO=4&transport=polling&t=POETZZg.0&sid=ckjMn0kegQTNM35BAAAG HTTP/1.1" 200 -
+2025-04-07 00:15:51,030 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:15:51] "POST /socket.io/?EIO=4&transport=polling&t=POETZZg&sid=ckjMn0kegQTNM35BAAAG HTTP/1.1" 200 -
+2025-04-07 00:16:01,216 - suikoden_web - INFO - Client disconnected: lISZFPxacBmh0OH-AAAH
+2025-04-07 00:16:01,233 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET /socket.io/?EIO=4&transport=websocket&sid=ckjMn0kegQTNM35BAAAG HTTP/1.1" 200 -
+2025-04-07 00:16:01,248 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET / HTTP/1.1" 200 -
+2025-04-07 00:16:01,324 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:16:01,331 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:16:01,333 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:16:01,463 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET / HTTP/1.1" 200 -
+2025-04-07 00:16:01,477 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET /socket.io/?EIO=4&transport=polling&t=POETc6l HTTP/1.1" 200 -
+2025-04-07 00:16:01,545 - suikoden_web - INFO - Client connected: 6L4kmndyKUvNfbHvAAAJ
+2025-04-07 00:16:01,546 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "POST /socket.io/?EIO=4&transport=polling&t=POETc82&sid=NnlXJyHfE3CEbRo0AAAI HTTP/1.1" 200 -
+2025-04-07 00:16:01,551 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET /socket.io/?EIO=4&transport=polling&t=POETc82.0&sid=NnlXJyHfE3CEbRo0AAAI HTTP/1.1" 200 -
+2025-04-07 00:16:01,603 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:16:01] "GET /socket.io/?EIO=4&transport=polling&t=POETc8t&sid=NnlXJyHfE3CEbRo0AAAI HTTP/1.1" 200 -
+2025-04-07 00:16:01,622 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:21:59,698 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:21:59,699 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:21:59,705 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:21:59,756 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:21:59,757 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:21:59,757 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:22:00,715 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:22:00,716 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:22:00,720 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:22:00,752 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:22:00,757 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:22:05,173 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:05] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:05,513 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:22:05,520 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:22:05,525 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:05] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:22:08,249 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:08,322 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:22:08,338 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:22:08,345 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:22:08,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "GET /socket.io/?EIO=4&transport=polling&t=POEU_ji HTTP/1.1" 200 -
+2025-04-07 00:22:08,545 - suikoden_web - INFO - Client connected: 797RfsKjV_bM5M1fAAAB
+2025-04-07 00:22:08,546 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "POST /socket.io/?EIO=4&transport=polling&t=POEU_kP&sid=gXihMgNtg1mG-wU8AAAA HTTP/1.1" 200 -
+2025-04-07 00:22:08,550 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "GET /socket.io/?EIO=4&transport=polling&t=POEU_kS&sid=gXihMgNtg1mG-wU8AAAA HTTP/1.1" 200 -
+2025-04-07 00:22:08,686 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:08] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:09,469 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:09] "GET /socket.io/?EIO=4&transport=polling&t=POEU_ys&sid=gXihMgNtg1mG-wU8AAAA HTTP/1.1" 200 -
+2025-04-07 00:22:09,568 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:22:24,687 - suikoden_web - INFO - Client disconnected: 797RfsKjV_bM5M1fAAAB
+2025-04-07 00:22:24,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "GET /socket.io/?EIO=4&transport=websocket&sid=gXihMgNtg1mG-wU8AAAA HTTP/1.1" 200 -
+2025-04-07 00:22:24,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:24,779 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:22:24,781 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:22:24,788 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:22:24,904 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "GET /socket.io/?EIO=4&transport=polling&t=POEV3k2 HTTP/1.1" 200 -
+2025-04-07 00:22:24,909 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:24,980 - suikoden_web - INFO - Client connected: qGEH-xxssCrvISlbAAAD
+2025-04-07 00:22:24,982 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "POST /socket.io/?EIO=4&transport=polling&t=POEV3l8&sid=cfJBuYeVxrh4oHGKAAAC HTTP/1.1" 200 -
+2025-04-07 00:22:24,985 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:24] "GET /socket.io/?EIO=4&transport=polling&t=POEV3l9&sid=cfJBuYeVxrh4oHGKAAAC HTTP/1.1" 200 -
+2025-04-07 00:22:25,034 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:22:25,034 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:25] "POST /socket.io/?EIO=4&transport=polling&t=POEV3m1&sid=cfJBuYeVxrh4oHGKAAAC HTTP/1.1" 200 -
+2025-04-07 00:22:25,035 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:25] "GET /socket.io/?EIO=4&transport=polling&t=POEV3m2&sid=cfJBuYeVxrh4oHGKAAAC HTTP/1.1" 200 -
+2025-04-07 00:22:36,175 - suikoden_web - INFO - Client disconnected: qGEH-xxssCrvISlbAAAD
+2025-04-07 00:22:36,175 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET /socket.io/?EIO=4&transport=websocket&sid=cfJBuYeVxrh4oHGKAAAC HTTP/1.1" 200 -
+2025-04-07 00:22:36,199 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:36,265 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:22:36,269 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:22:36,271 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:22:36,391 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET /socket.io/?EIO=4&transport=polling&t=POEV6XW HTTP/1.1" 200 -
+2025-04-07 00:22:36,400 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET / HTTP/1.1" 200 -
+2025-04-07 00:22:36,475 - suikoden_web - INFO - Client connected: DixdbUY-az0mX6iGAAAF
+2025-04-07 00:22:36,476 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "POST /socket.io/?EIO=4&transport=polling&t=POEV6Yq&sid=Mk3ZMDsxR7grxu-6AAAE HTTP/1.1" 200 -
+2025-04-07 00:22:36,478 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET /socket.io/?EIO=4&transport=polling&t=POEV6Yq.0&sid=Mk3ZMDsxR7grxu-6AAAE HTTP/1.1" 200 -
+2025-04-07 00:22:36,535 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:22:36,535 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "POST /socket.io/?EIO=4&transport=polling&t=POEV6Zl&sid=Mk3ZMDsxR7grxu-6AAAE HTTP/1.1" 200 -
+2025-04-07 00:22:36,537 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:36] "GET /socket.io/?EIO=4&transport=polling&t=POEV6Zm&sid=Mk3ZMDsxR7grxu-6AAAE HTTP/1.1" 200 -
+2025-04-07 00:22:39,211 - suikoden_web - INFO - Client disconnected: DixdbUY-az0mX6iGAAAF
+2025-04-07 00:22:39,212 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:22:39] "GET /socket.io/?EIO=4&transport=websocket&sid=Mk3ZMDsxR7grxu-6AAAE HTTP/1.1" 200 -
+2025-04-07 00:27:08,584 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:27:08,584 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:27:08,588 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:27:08,700 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:27:08,700 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:27:08,701 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:27:09,560 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:27:09,561 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:27:09,566 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:27:09,591 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:27:09,598 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:27:14,646 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:14] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:14,844 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:27:14,846 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:27:14,847 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:14] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:27:15,134 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "GET /socket.io/?EIO=4&transport=polling&t=POEWAai HTTP/1.1" 200 -
+2025-04-07 00:27:15,309 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:15,874 - suikoden_web - INFO - Client connected: KOahyfbERMQbKQNKAAAB
+2025-04-07 00:27:15,876 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "POST /socket.io/?EIO=4&transport=polling&t=POEWAmR&sid=CgzxTcS8nOtTEOJ6AAAA HTTP/1.1" 200 -
+2025-04-07 00:27:15,878 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "GET /socket.io/?EIO=4&transport=polling&t=POEWAmS&sid=CgzxTcS8nOtTEOJ6AAAA HTTP/1.1" 200 -
+2025-04-07 00:27:15,979 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:27:15,980 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "POST /socket.io/?EIO=4&transport=polling&t=POEWAo5&sid=CgzxTcS8nOtTEOJ6AAAA HTTP/1.1" 200 -
+2025-04-07 00:27:15,980 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:15] "GET /socket.io/?EIO=4&transport=polling&t=POEWAo6&sid=CgzxTcS8nOtTEOJ6AAAA HTTP/1.1" 200 -
+2025-04-07 00:27:33,659 - suikoden_web - INFO - Client disconnected: KOahyfbERMQbKQNKAAAB
+2025-04-07 00:27:33,660 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "GET /socket.io/?EIO=4&transport=websocket&sid=CgzxTcS8nOtTEOJ6AAAA HTTP/1.1" 200 -
+2025-04-07 00:27:33,681 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:33,754 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:27:33,763 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:27:33,765 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:27:33,900 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:33,902 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "GET /socket.io/?EIO=4&transport=polling&t=POEWFA6 HTTP/1.1" 200 -
+2025-04-07 00:27:33,993 - suikoden_web - INFO - Client connected: U2Pu3a7LZJ3fRzslAAAD
+2025-04-07 00:27:33,994 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "POST /socket.io/?EIO=4&transport=polling&t=POEWFBV&sid=ZK5RMh0Pa9B_uGUoAAAC HTTP/1.1" 200 -
+2025-04-07 00:27:33,998 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:33] "GET /socket.io/?EIO=4&transport=polling&t=POEWFBV.0&sid=ZK5RMh0Pa9B_uGUoAAAC HTTP/1.1" 200 -
+2025-04-07 00:27:34,049 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET /socket.io/?EIO=4&transport=polling&t=POEWFCN&sid=ZK5RMh0Pa9B_uGUoAAAC HTTP/1.1" 200 -
+2025-04-07 00:27:34,078 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:27:34,083 - suikoden_web - INFO - Client disconnected: U2Pu3a7LZJ3fRzslAAAD
+2025-04-07 00:27:34,084 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET /socket.io/?EIO=4&transport=websocket&sid=ZK5RMh0Pa9B_uGUoAAAC HTTP/1.1" 200 -
+2025-04-07 00:27:34,110 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:34,247 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:27:34,248 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:27:34,250 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:27:34,308 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET /socket.io/?EIO=4&transport=polling&t=POEWFGU HTTP/1.1" 200 -
+2025-04-07 00:27:34,310 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET / HTTP/1.1" 200 -
+2025-04-07 00:27:34,377 - suikoden_web - INFO - Client connected: 6s7yC85DdzQK_DefAAAF
+2025-04-07 00:27:34,379 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "POST /socket.io/?EIO=4&transport=polling&t=POEWFHX&sid=HMLKNYT7Tz7LuE3bAAAE HTTP/1.1" 200 -
+2025-04-07 00:27:34,382 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET /socket.io/?EIO=4&transport=polling&t=POEWFHX.0&sid=HMLKNYT7Tz7LuE3bAAAE HTTP/1.1" 200 -
+2025-04-07 00:27:34,434 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:27:34,435 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "POST /socket.io/?EIO=4&transport=polling&t=POEWFII&sid=HMLKNYT7Tz7LuE3bAAAE HTTP/1.1" 200 -
+2025-04-07 00:27:34,471 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:27:34] "GET /socket.io/?EIO=4&transport=polling&t=POEWFIJ&sid=HMLKNYT7Tz7LuE3bAAAE HTTP/1.1" 200 -
+2025-04-07 00:31:04,794 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:31:04,794 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:31:04,798 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:31:04,850 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:31:04,851 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:31:04,852 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:31:05,691 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:31:05,693 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:31:05,698 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:31:05,722 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:31:05,727 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:31:29,282 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:29] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:29,560 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:29] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 00:31:29,611 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:29] "GET /static/img/placeholder.png HTTP/1.1" 200 -
+2025-04-07 00:31:29,755 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:29] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 00:31:30,390 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:30] "GET /socket.io/?EIO=4&transport=polling&t=POEX8qG HTTP/1.1" 200 -
+2025-04-07 00:31:30,578 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:30] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:30,932 - suikoden_web - INFO - Client connected: KeObSsBlF6SsYFOjAAAB
+2025-04-07 00:31:30,933 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:30] "POST /socket.io/?EIO=4&transport=polling&t=POEX916&sid=Rjr5EacHX-oMG0q_AAAA HTTP/1.1" 200 -
+2025-04-07 00:31:31,242 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:31] "GET /socket.io/?EIO=4&transport=polling&t=POEX919&sid=Rjr5EacHX-oMG0q_AAAA HTTP/1.1" 200 -
+2025-04-07 00:31:31,257 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:31:31,395 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 00:31:39,257 - suikoden_web - INFO - Client disconnected: KeObSsBlF6SsYFOjAAAB
+2025-04-07 00:31:39,260 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:39] "GET /socket.io/?EIO=4&transport=websocket&sid=Rjr5EacHX-oMG0q_AAAA HTTP/1.1" 200 -
+2025-04-07 00:31:39,568 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:39] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:39,631 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:31:39,832 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:39] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:31:39,941 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:31:40,267 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:40] "GET /socket.io/?EIO=4&transport=polling&t=POEXBEj HTTP/1.1" 200 -
+2025-04-07 00:31:40,268 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:40] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:40,532 - suikoden_web - INFO - Client connected: y3aIegaUqCfHLHNcAAAD
+2025-04-07 00:31:40,533 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:40] "POST /socket.io/?EIO=4&transport=polling&t=POEXBK1&sid=alfuq1t6jj0zEVJNAAAC HTTP/1.1" 200 -
+2025-04-07 00:31:40,611 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:40] "GET /socket.io/?EIO=4&transport=polling&t=POEXBK2&sid=alfuq1t6jj0zEVJNAAAC HTTP/1.1" 200 -
+2025-04-07 00:31:40,667 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:31:45,013 - suikoden_web - INFO - Client disconnected: y3aIegaUqCfHLHNcAAAD
+2025-04-07 00:31:45,014 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "GET /socket.io/?EIO=4&transport=websocket&sid=alfuq1t6jj0zEVJNAAAC HTTP/1.1" 200 -
+2025-04-07 00:31:45,034 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:45,346 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:31:45,404 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:31:45,405 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:31:45,467 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "GET / HTTP/1.1" 200 -
+2025-04-07 00:31:45,766 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:45] "GET /socket.io/?EIO=4&transport=polling&t=POEXCaj HTTP/1.1" 200 -
+2025-04-07 00:31:46,031 - suikoden_web - INFO - Client connected: AkSFRTeueeTC6xdEAAAF
+2025-04-07 00:31:46,032 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:46] "POST /socket.io/?EIO=4&transport=polling&t=POEXCfj&sid=MwYOaZ97vQA-R1cRAAAE HTTP/1.1" 200 -
+2025-04-07 00:31:46,095 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:46] "GET /socket.io/?EIO=4&transport=polling&t=POEXCfk&sid=MwYOaZ97vQA-R1cRAAAE HTTP/1.1" 200 -
+2025-04-07 00:31:46,112 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:31:46,112 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:46] "POST /socket.io/?EIO=4&transport=polling&t=POEXCkt&sid=MwYOaZ97vQA-R1cRAAAE HTTP/1.1" 200 -
+2025-04-07 00:31:46,416 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:31:46] "GET /socket.io/?EIO=4&transport=polling&t=POEXCku&sid=MwYOaZ97vQA-R1cRAAAE HTTP/1.1" 200 -
+2025-04-07 00:32:48,915 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:32:48,916 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:32:48,919 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:32:48,951 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:32:48,951 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:32:48,951 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:32:49,439 - suikoden_web - INFO - Loaded 111 characters from characters.json
+2025-04-07 00:32:49,440 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:32:49,442 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:32:49,461 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:32:49,464 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:32:59,071 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "GET / HTTP/1.1" 200 -
+2025-04-07 00:32:59,310 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:32:59,330 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:32:59,483 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:32:59,845 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "GET / HTTP/1.1" 200 -
+2025-04-07 00:32:59,846 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:32:59] "GET /socket.io/?EIO=4&transport=polling&t=POEXUfz HTTP/1.1" 200 -
+2025-04-07 00:33:00,109 - suikoden_web - INFO - Client connected: o415ll54qiNDsfTbAAAB
+2025-04-07 00:33:00,111 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:00] "POST /socket.io/?EIO=4&transport=polling&t=POEXUlK&sid=HN5ft3X51pczljmsAAAA HTTP/1.1" 200 -
+2025-04-07 00:33:00,185 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:00] "GET /socket.io/?EIO=4&transport=polling&t=POEXUlM&sid=HN5ft3X51pczljmsAAAA HTTP/1.1" 200 -
+2025-04-07 00:33:00,204 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:00,204 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:00] "POST /socket.io/?EIO=4&transport=polling&t=POEXUqZ&sid=HN5ft3X51pczljmsAAAA HTTP/1.1" 200 -
+2025-04-07 00:33:00,513 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:00] "GET /socket.io/?EIO=4&transport=polling&t=POEXUqZ.0&sid=HN5ft3X51pczljmsAAAA HTTP/1.1" 200 -
+2025-04-07 00:33:07,274 - suikoden_web - INFO - Client disconnected: o415ll54qiNDsfTbAAAB
+2025-04-07 00:33:07,274 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "GET /socket.io/?EIO=4&transport=websocket&sid=HN5ft3X51pczljmsAAAA HTTP/1.1" 200 -
+2025-04-07 00:33:07,597 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:07,656 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:07,863 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:07,972 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:07,996 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:07] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:08,298 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:08] "GET /socket.io/?EIO=4&transport=polling&t=POEXWkC HTTP/1.1" 200 -
+2025-04-07 00:33:08,563 - suikoden_web - INFO - Client connected: vYGTuQ4iOjAOW-2VAAAD
+2025-04-07 00:33:08,563 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:08] "POST /socket.io/?EIO=4&transport=polling&t=POEXWpf&sid=GQfLZLizypjjzNz_AAAC HTTP/1.1" 200 -
+2025-04-07 00:33:08,643 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:08] "GET /socket.io/?EIO=4&transport=polling&t=POEXWpf.0&sid=GQfLZLizypjjzNz_AAAC HTTP/1.1" 200 -
+2025-04-07 00:33:08,687 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:11,617 - suikoden_web - INFO - Client disconnected: vYGTuQ4iOjAOW-2VAAAD
+2025-04-07 00:33:11,618 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:11] "GET /socket.io/?EIO=4&transport=websocket&sid=GQfLZLizypjjzNz_AAAC HTTP/1.1" 200 -
+2025-04-07 00:33:11,935 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:11] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:11,998 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:12,200 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:12,308 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:12,647 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:12,648 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "GET /socket.io/?EIO=4&transport=polling&t=POEXXoD HTTP/1.1" 200 -
+2025-04-07 00:33:12,915 - suikoden_web - INFO - Client connected: X-GoKaIn7ph9Eo8MAAAF
+2025-04-07 00:33:12,916 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "POST /socket.io/?EIO=4&transport=polling&t=POEXXtH&sid=R1UuFUqtDpNc-k-OAAAE HTTP/1.1" 200 -
+2025-04-07 00:33:12,978 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:12] "GET /socket.io/?EIO=4&transport=polling&t=POEXXtI&sid=R1UuFUqtDpNc-k-OAAAE HTTP/1.1" 200 -
+2025-04-07 00:33:12,999 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:13,000 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:13] "POST /socket.io/?EIO=4&transport=polling&t=POEXXyU&sid=R1UuFUqtDpNc-k-OAAAE HTTP/1.1" 200 -
+2025-04-07 00:33:13,339 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:13] "GET /socket.io/?EIO=4&transport=polling&t=POEXXyW&sid=R1UuFUqtDpNc-k-OAAAE HTTP/1.1" 200 -
+2025-04-07 00:33:21,985 - suikoden_web - INFO - Client disconnected: X-GoKaIn7ph9Eo8MAAAF
+2025-04-07 00:33:21,994 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:21] "GET /socket.io/?EIO=4&transport=websocket&sid=R1UuFUqtDpNc-k-OAAAE HTTP/1.1" 200 -
+2025-04-07 00:33:22,312 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:22] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:22,381 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:22,562 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:22] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:22,701 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:23,030 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:23,031 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "GET /socket.io/?EIO=4&transport=polling&t=POEXaKQ HTTP/1.1" 200 -
+2025-04-07 00:33:23,296 - suikoden_web - INFO - Client connected: nNXpuqJ0otIQWJ_1AAAH
+2025-04-07 00:33:23,297 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "POST /socket.io/?EIO=4&transport=polling&t=POEXaPU&sid=GDWpdfzs72Lo0LqNAAAG HTTP/1.1" 200 -
+2025-04-07 00:33:23,359 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "GET /socket.io/?EIO=4&transport=polling&t=POEXaPW&sid=GDWpdfzs72Lo0LqNAAAG HTTP/1.1" 200 -
+2025-04-07 00:33:23,373 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:23,373 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "POST /socket.io/?EIO=4&transport=polling&t=POEXaUc&sid=GDWpdfzs72Lo0LqNAAAG HTTP/1.1" 200 -
+2025-04-07 00:33:23,673 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:23] "GET /socket.io/?EIO=4&transport=polling&t=POEXaUd&sid=GDWpdfzs72Lo0LqNAAAG HTTP/1.1" 200 -
+2025-04-07 00:33:25,090 - suikoden_web - INFO - Client disconnected: nNXpuqJ0otIQWJ_1AAAH
+2025-04-07 00:33:25,091 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "GET /socket.io/?EIO=4&transport=websocket&sid=GDWpdfzs72Lo0LqNAAAG HTTP/1.1" 200 -
+2025-04-07 00:33:25,410 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:25,473 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:25,673 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:25,785 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:25,818 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:25] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:26,126 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:26] "GET /socket.io/?EIO=4&transport=polling&t=POEXb4Z HTTP/1.1" 200 -
+2025-04-07 00:33:26,374 - suikoden_web - INFO - Client connected: 7f9J-VHu_iaVnSr2AAAJ
+2025-04-07 00:33:26,375 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:26] "POST /socket.io/?EIO=4&transport=polling&t=POEXb9r&sid=VDxvnJWOhmRN0IjgAAAI HTTP/1.1" 200 -
+2025-04-07 00:33:26,451 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:26] "GET /socket.io/?EIO=4&transport=polling&t=POEXb9t&sid=VDxvnJWOhmRN0IjgAAAI HTTP/1.1" 200 -
+2025-04-07 00:33:26,460 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:28,010 - suikoden_web - INFO - Client disconnected: 7f9J-VHu_iaVnSr2AAAJ
+2025-04-07 00:33:28,010 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "GET /socket.io/?EIO=4&transport=websocket&sid=VDxvnJWOhmRN0IjgAAAI HTTP/1.1" 200 -
+2025-04-07 00:33:28,031 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:28,331 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:28,395 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:28,395 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:28,738 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "GET /socket.io/?EIO=4&transport=polling&t=POEXbjO HTTP/1.1" 200 -
+2025-04-07 00:33:28,742 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:28,987 - suikoden_web - INFO - Client connected: 1-coWgtXgAIs4wLSAAAL
+2025-04-07 00:33:28,989 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:28] "POST /socket.io/?EIO=4&transport=polling&t=POEXbok&sid=Qmyb80x79sOjxOHeAAAK HTTP/1.1" 200 -
+2025-04-07 00:33:29,066 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:29] "GET /socket.io/?EIO=4&transport=polling&t=POEXbom&sid=Qmyb80x79sOjxOHeAAAK HTTP/1.1" 200 -
+2025-04-07 00:33:29,082 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:29,082 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:29] "POST /socket.io/?EIO=4&transport=polling&t=POEXbto&sid=Qmyb80x79sOjxOHeAAAK HTTP/1.1" 200 -
+2025-04-07 00:33:29,399 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:29] "GET /socket.io/?EIO=4&transport=polling&t=POEXbtp&sid=Qmyb80x79sOjxOHeAAAK HTTP/1.1" 200 -
+2025-04-07 00:33:31,637 - suikoden_web - INFO - Client disconnected: 1-coWgtXgAIs4wLSAAAL
+2025-04-07 00:33:31,638 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:31] "GET /socket.io/?EIO=4&transport=websocket&sid=Qmyb80x79sOjxOHeAAAK HTTP/1.1" 200 -
+2025-04-07 00:33:31,957 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:31] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:32,019 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:32,225 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:32,331 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:32,659 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "GET /socket.io/?EIO=4&transport=polling&t=POEXcgs HTTP/1.1" 200 -
+2025-04-07 00:33:32,660 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:32,928 - suikoden_web - INFO - Client connected: dq7uPFF5MfZOzuPpAAAN
+2025-04-07 00:33:32,928 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "POST /socket.io/?EIO=4&transport=polling&t=POEXclw&sid=hVJ-H9xtt-Ck-uEIAAAM HTTP/1.1" 200 -
+2025-04-07 00:33:32,975 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:32] "GET /socket.io/?EIO=4&transport=polling&t=POEXclw.0&sid=hVJ-H9xtt-Ck-uEIAAAM HTTP/1.1" 200 -
+2025-04-07 00:33:33,002 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:35,140 - suikoden_web - INFO - Client disconnected: dq7uPFF5MfZOzuPpAAAN
+2025-04-07 00:33:35,141 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "GET /socket.io/?EIO=4&transport=websocket&sid=hVJ-H9xtt-Ck-uEIAAAM HTTP/1.1" 200 -
+2025-04-07 00:33:35,161 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:35,467 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:35,530 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:35,531 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:35,552 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:35,857 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:35] "GET /socket.io/?EIO=4&transport=polling&t=POEXdSp HTTP/1.1" 200 -
+2025-04-07 00:33:36,123 - suikoden_web - INFO - Client connected: N6xn5dzns0CRoeDcAAAP
+2025-04-07 00:33:36,123 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "POST /socket.io/?EIO=4&transport=polling&t=POEXdXt&sid=FFNfDMGRqQt8t6zpAAAO HTTP/1.1" 200 -
+2025-04-07 00:33:36,185 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "GET /socket.io/?EIO=4&transport=polling&t=POEXdXv&sid=FFNfDMGRqQt8t6zpAAAO HTTP/1.1" 200 -
+2025-04-07 00:33:36,226 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:36,226 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "POST /socket.io/?EIO=4&transport=polling&t=POEXddP&sid=FFNfDMGRqQt8t6zpAAAO HTTP/1.1" 200 -
+2025-04-07 00:33:36,527 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "GET /socket.io/?EIO=4&transport=polling&t=POEXddQ&sid=FFNfDMGRqQt8t6zpAAAO HTTP/1.1" 200 -
+2025-04-07 00:33:36,647 - suikoden_web - INFO - Client disconnected: N6xn5dzns0CRoeDcAAAP
+2025-04-07 00:33:36,648 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "GET /socket.io/?EIO=4&transport=websocket&sid=FFNfDMGRqQt8t6zpAAAO HTTP/1.1" 200 -
+2025-04-07 00:33:36,980 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:36] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:37,058 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:37,244 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:37,373 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:37,712 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "GET /socket.io/?EIO=4&transport=polling&t=POEXdve HTTP/1.1" 200 -
+2025-04-07 00:33:37,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:37,963 - suikoden_web - INFO - Client connected: hf1yKwimlV6QgggMAAAR
+2025-04-07 00:33:37,964 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:37] "POST /socket.io/?EIO=4&transport=polling&t=POEXd-t&sid=s7_2hQXKViATBxHMAAAQ HTTP/1.1" 200 -
+2025-04-07 00:33:38,042 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "GET /socket.io/?EIO=4&transport=polling&t=POEXd-w&sid=s7_2hQXKViATBxHMAAAQ HTTP/1.1" 200 -
+2025-04-07 00:33:38,051 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:38,385 - suikoden_web - INFO - Client disconnected: hf1yKwimlV6QgggMAAAR
+2025-04-07 00:33:38,390 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "GET /socket.io/?EIO=4&transport=websocket&sid=s7_2hQXKViATBxHMAAAQ HTTP/1.1" 200 -
+2025-04-07 00:33:38,402 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:38,709 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:38,777 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:38,778 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:38,818 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:38] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:39,116 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "GET /socket.io/?EIO=4&transport=polling&t=POEXeFj HTTP/1.1" 200 -
+2025-04-07 00:33:39,371 - suikoden_web - INFO - Client connected: iCD8YD3Ca4aeArhSAAAT
+2025-04-07 00:33:39,371 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "POST /socket.io/?EIO=4&transport=polling&t=POEXeKp&sid=rTbDlmdBP1-chyuWAAAS HTTP/1.1" 200 -
+2025-04-07 00:33:39,432 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "GET /socket.io/?EIO=4&transport=polling&t=POEXeKq&sid=rTbDlmdBP1-chyuWAAAS HTTP/1.1" 200 -
+2025-04-07 00:33:39,463 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:39,464 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "POST /socket.io/?EIO=4&transport=polling&t=POEXePm&sid=rTbDlmdBP1-chyuWAAAS HTTP/1.1" 200 -
+2025-04-07 00:33:39,749 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "GET /socket.io/?EIO=4&transport=polling&t=POEXePn&sid=rTbDlmdBP1-chyuWAAAS HTTP/1.1" 200 -
+2025-04-07 00:33:39,791 - suikoden_web - INFO - Client disconnected: iCD8YD3Ca4aeArhSAAAT
+2025-04-07 00:33:39,792 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "GET /socket.io/?EIO=4&transport=websocket&sid=rTbDlmdBP1-chyuWAAAS HTTP/1.1" 200 -
+2025-04-07 00:33:39,813 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:39] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:40,112 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:40,270 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:40,271 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:40,594 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "GET /socket.io/?EIO=4&transport=polling&t=POEXecu HTTP/1.1" 200 -
+2025-04-07 00:33:40,597 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:40,861 - suikoden_web - INFO - Client connected: tIYZxt1QS6UsyR_fAAAV
+2025-04-07 00:33:40,862 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "POST /socket.io/?EIO=4&transport=polling&t=POEXehv&sid=pDR1594KYDDlM3n-AAAU HTTP/1.1" 200 -
+2025-04-07 00:33:40,909 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "GET /socket.io/?EIO=4&transport=polling&t=POEXehw&sid=pDR1594KYDDlM3n-AAAU HTTP/1.1" 200 -
+2025-04-07 00:33:40,962 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:33:40,962 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:40] "POST /socket.io/?EIO=4&transport=polling&t=POEXenR&sid=pDR1594KYDDlM3n-AAAU HTTP/1.1" 200 -
+2025-04-07 00:33:41,272 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "GET /socket.io/?EIO=4&transport=polling&t=POEXenS&sid=pDR1594KYDDlM3n-AAAU HTTP/1.1" 200 -
+2025-04-07 00:33:41,615 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:41,625 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "GET /socket.io/?EIO=4&transport=websocket&sid=pDR1594KYDDlM3n-AAAU HTTP/1.1" 200 -
+2025-04-07 00:33:41,683 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:33:41,872 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:33:41,995 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:33:42,057 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:42] "GET / HTTP/1.1" 200 -
+2025-04-07 00:33:42,370 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:42] "GET /socket.io/?EIO=4&transport=polling&t=POEXf1r HTTP/1.1" 200 -
+2025-04-07 00:33:42,638 - suikoden_web - INFO - Client connected: XWExMqfylXd1EYFAAAAX
+2025-04-07 00:33:42,638 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:42] "POST /socket.io/?EIO=4&transport=polling&t=POEXf7f&sid=kKmZWzNalc96YMwKAAAW HTTP/1.1" 200 -
+2025-04-07 00:33:42,683 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:33:42] "GET /socket.io/?EIO=4&transport=polling&t=POEXf7g&sid=kKmZWzNalc96YMwKAAAW HTTP/1.1" 200 -
+2025-04-07 00:33:42,697 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:42:54,631 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:42:54,633 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:42:54,641 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:42:54,730 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:42:54,731 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:42:54,731 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:42:56,015 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:42:56,016 - suikoden_web - INFO - Loaded party data: 0 members
+2025-04-07 00:42:56,022 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:42:56,054 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:42:56,064 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:43:22,254 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:22] "GET / HTTP/1.1" 200 -
+2025-04-07 00:43:22,575 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:43:22,579 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:43:22,583 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:22] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:43:23,022 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:23] "GET /socket.io/?EIO=4&transport=polling&t=POEZst_ HTTP/1.1" 200 -
+2025-04-07 00:43:23,068 - suikoden_web - INFO - Client connected: -WnBlcI7yH4Ip-FvAAAB
+2025-04-07 00:43:23,071 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:23] "POST /socket.io/?EIO=4&transport=polling&t=POEZsum&sid=ewOKMlnCSy_Tg86tAAAA HTTP/1.1" 200 -
+2025-04-07 00:43:23,073 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:23] "GET /socket.io/?EIO=4&transport=polling&t=POEZsuq&sid=ewOKMlnCSy_Tg86tAAAA HTTP/1.1" 200 -
+2025-04-07 00:43:23,224 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:23] "GET / HTTP/1.1" 200 -
+2025-04-07 00:43:23,870 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:23] "GET /socket.io/?EIO=4&transport=polling&t=POEZt5O&sid=ewOKMlnCSy_Tg86tAAAA HTTP/1.1" 200 -
+2025-04-07 00:43:23,969 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:43:33,317 - suikoden_web - INFO - Character selected: Tir McDohl
+2025-04-07 00:43:33,320 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:33] "GET /static/img/Tir%20Mcdohl.png HTTP/1.1" 200 -
+2025-04-07 00:43:34,506 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:34,508 - suikoden_web - INFO - Added Tir McDohl to party slot 0
+2025-04-07 00:43:38,549 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 00:43:38,556 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:38] "GET /static/img/Alen.png HTTP/1.1" 200 -
+2025-04-07 00:43:39,443 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:39,444 - suikoden_web - INFO - Added Alen to party slot 1
+2025-04-07 00:43:40,812 - suikoden_web - INFO - Character selected: Anji
+2025-04-07 00:43:40,813 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:40] "GET /static/img/Anji.png HTTP/1.1" 200 -
+2025-04-07 00:43:41,565 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:41,566 - suikoden_web - INFO - Added Anji to party slot 2
+2025-04-07 00:43:42,626 - suikoden_web - INFO - Character selected: Apple
+2025-04-07 00:43:42,643 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:42] "GET /static/img/Apple.png HTTP/1.1" 200 -
+2025-04-07 00:43:43,288 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:43,289 - suikoden_web - INFO - Added Apple to party slot 5
+2025-04-07 00:43:44,390 - suikoden_web - INFO - Character selected: Blackman
+2025-04-07 00:43:44,411 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:44] "GET /static/img/Blackman.png HTTP/1.1" 200 -
+2025-04-07 00:43:45,274 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:45,274 - suikoden_web - INFO - Added Blackman to party slot 3
+2025-04-07 00:43:46,495 - suikoden_web - INFO - Character selected: Camille
+2025-04-07 00:43:46,496 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:43:46] "GET /static/img/Camille.png HTTP/1.1" 200 -
+2025-04-07 00:43:47,849 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:43:47,850 - suikoden_web - INFO - Added Camille to party slot 4
+2025-04-07 00:43:51,293 - suikoden_web - INFO - Character selected: Blackman
+2025-04-07 00:44:21,287 - suikoden_web - INFO - Character selected: Antonio
+2025-04-07 00:44:21,296 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:44:21] "GET /static/img/Antonio.png HTTP/1.1" 200 -
+2025-04-07 00:44:22,893 - suikoden_web - INFO - Character selected: Apple
+2025-04-07 00:45:37,726 - suikoden_web - INFO - Client disconnected: -WnBlcI7yH4Ip-FvAAAB
+2025-04-07 00:45:37,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:37] "GET /socket.io/?EIO=4&transport=websocket&sid=ewOKMlnCSy_Tg86tAAAA HTTP/1.1" 200 -
+2025-04-07 00:45:37,743 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:37] "GET / HTTP/1.1" 200 -
+2025-04-07 00:45:37,843 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:45:37,853 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:37] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:37,857 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,030 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=POEaNrL HTTP/1.1" 200 -
+2025-04-07 00:45:38,037 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "GET / HTTP/1.1" 200 -
+2025-04-07 00:45:38,157 - suikoden_web - INFO - Client connected: IGhEARpNPLg5wYhiAAAD
+2025-04-07 00:45:38,158 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "POST /socket.io/?EIO=4&transport=polling&t=POEaNtP&sid=g8cn5jqgy8uRrmErAAAC HTTP/1.1" 200 -
+2025-04-07 00:45:38,161 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=POEaNtQ&sid=g8cn5jqgy8uRrmErAAAC HTTP/1.1" 200 -
+2025-04-07 00:45:38,209 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:45:38,210 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "POST /socket.io/?EIO=4&transport=polling&t=POEaNuN&sid=g8cn5jqgy8uRrmErAAAC HTTP/1.1" 200 -
+2025-04-07 00:45:38,210 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=POEaNuO&sid=g8cn5jqgy8uRrmErAAAC HTTP/1.1" 200 -
+2025-04-07 00:45:38,260 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,263 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,264 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,276 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,280 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:38,282 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:38] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,072 - suikoden_web - INFO - Client disconnected: IGhEARpNPLg5wYhiAAAD
+2025-04-07 00:45:40,072 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET /socket.io/?EIO=4&transport=websocket&sid=g8cn5jqgy8uRrmErAAAC HTTP/1.1" 200 -
+2025-04-07 00:45:40,090 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET / HTTP/1.1" 200 -
+2025-04-07 00:45:40,142 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,151 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,159 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,254 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET /socket.io/?EIO=4&transport=polling&t=POEaOOO HTTP/1.1" 200 -
+2025-04-07 00:45:40,263 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET / HTTP/1.1" 200 -
+2025-04-07 00:45:40,329 - suikoden_web - INFO - Client connected: xsKY-IddiDabBtfKAAAF
+2025-04-07 00:45:40,330 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "POST /socket.io/?EIO=4&transport=polling&t=POEaOPZ&sid=lVA0KfTXS4uj_0AfAAAE HTTP/1.1" 200 -
+2025-04-07 00:45:40,333 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET /socket.io/?EIO=4&transport=polling&t=POEaOPa&sid=lVA0KfTXS4uj_0AfAAAE HTTP/1.1" 200 -
+2025-04-07 00:45:40,371 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "GET /socket.io/?EIO=4&transport=polling&t=POEaOQC&sid=lVA0KfTXS4uj_0AfAAAE HTTP/1.1" 200 -
+2025-04-07 00:45:40,390 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:45:40,414 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,416 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,420 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,431 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,435 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:40,440 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:40] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 00:45:48,505 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:45:48] "GET /static/img/Odessa.png HTTP/1.1" 200 -
+2025-04-07 00:45:48,511 - suikoden_web - INFO - Character selected: Odessa
+2025-04-07 00:46:06,945 - suikoden_web - INFO - Client disconnected: xsKY-IddiDabBtfKAAAF
+2025-04-07 00:46:06,953 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:06] "GET /socket.io/?EIO=4&transport=websocket&sid=lVA0KfTXS4uj_0AfAAAE HTTP/1.1" 200 -
+2025-04-07 00:46:06,958 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:06] "GET / HTTP/1.1" 200 -
+2025-04-07 00:46:06,996 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,003 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,008 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,144 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "GET /socket.io/?EIO=4&transport=polling&t=POEaUyQ HTTP/1.1" 200 -
+2025-04-07 00:46:07,146 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "GET / HTTP/1.1" 200 -
+2025-04-07 00:46:07,197 - suikoden_web - INFO - Client connected: E_9xF4fu0XLXmvKNAAAH
+2025-04-07 00:46:07,198 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "POST /socket.io/?EIO=4&transport=polling&t=POEaUzE&sid=H-xEvNQChlykLbbkAAAG HTTP/1.1" 200 -
+2025-04-07 00:46:07,202 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "GET /socket.io/?EIO=4&transport=polling&t=POEaUzE.0&sid=H-xEvNQChlykLbbkAAAG HTTP/1.1" 200 -
+2025-04-07 00:46:07,243 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "GET /socket.io/?EIO=4&transport=polling&t=POEaU-3&sid=H-xEvNQChlykLbbkAAAG HTTP/1.1" 200 -
+2025-04-07 00:46:07,259 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:46:07,287 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,292 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,295 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,299 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,301 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 00:46:07,310 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:46:07] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 00:54:24,573 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:54:24,599 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 00:54:24,604 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:54:24,670 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:54:24,671 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:54:24,671 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:54:25,727 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:54:25,728 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 00:54:25,733 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:54:25,760 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:54:25,765 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:54:31,847 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:54:31] "GET / HTTP/1.1" 200 -
+2025-04-07 00:54:32,039 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:54:32] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 00:54:32,717 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:54:32] "GET / HTTP/1.1" 200 -
+2025-04-07 00:57:04,604 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:57:04,604 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 00:57:04,607 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:57:04,630 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 00:57:04,630 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 00:57:04,631 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 00:57:04,966 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 00:57:04,967 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 00:57:04,969 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 00:57:04,979 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 00:57:04,982 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 00:57:06,188 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "GET / HTTP/1.1" 200 -
+2025-04-07 00:57:06,368 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 00:57:06,382 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:06,384 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 00:57:06,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "GET /socket.io/?EIO=4&transport=polling&t=POEc_-H HTTP/1.1" 200 -
+2025-04-07 00:57:06,871 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:06] "GET / HTTP/1.1" 200 -
+2025-04-07 00:57:07,310 - suikoden_web - INFO - Client connected: SuLMJldmDw43FwhwAAAB
+2025-04-07 00:57:07,311 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "POST /socket.io/?EIO=4&transport=polling&t=POEd07e&sid=spk5lFejVuQw5oi2AAAA HTTP/1.1" 200 -
+2025-04-07 00:57:07,319 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "GET /socket.io/?EIO=4&transport=polling&t=POEd07g&sid=spk5lFejVuQw5oi2AAAA HTTP/1.1" 200 -
+2025-04-07 00:57:07,434 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 00:57:07,434 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "POST /socket.io/?EIO=4&transport=polling&t=POEd09X&sid=spk5lFejVuQw5oi2AAAA HTTP/1.1" 200 -
+2025-04-07 00:57:07,436 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "GET /socket.io/?EIO=4&transport=polling&t=POEd09X.0&sid=spk5lFejVuQw5oi2AAAA HTTP/1.1" 200 -
+2025-04-07 00:57:07,503 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:07,504 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:07,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:07,526 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:07,533 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:07,540 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:07] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 00:57:17,087 - suikoden_web - INFO - Character selected: Vincent de Boule
+2025-04-07 00:57:17,089 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:17] "GET /static/img/Vincent%20de%20Boule.png HTTP/1.1" 200 -
+2025-04-07 00:57:17,976 - suikoden_web - INFO - Character selected: Viktor
+2025-04-07 00:57:17,978 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 00:57:17] "GET /static/img/Viktor.png HTTP/1.1" 200 -
+2025-04-07 00:57:26,424 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:57:26,426 - suikoden_web - INFO - Party externally updated by SuLMJldmDw43FwhwAAAB
+2025-04-07 00:57:36,565 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:57:36,565 - suikoden_web - INFO - Party externally updated by SuLMJldmDw43FwhwAAAB
+2025-04-07 00:57:37,020 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:57:37,027 - suikoden_web - INFO - Party externally updated by SuLMJldmDw43FwhwAAAB
+2025-04-07 00:57:37,336 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:57:37,337 - suikoden_web - INFO - Party externally updated by SuLMJldmDw43FwhwAAAB
+2025-04-07 00:57:42,208 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 00:57:42,210 - suikoden_web - INFO - Party externally updated by SuLMJldmDw43FwhwAAAB
+2025-04-07 05:18:34,401 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:18:34,422 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:18:34,439 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:18:34,689 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:18:34,690 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:18:34,691 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:18:35,943 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:18:35,945 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:18:35,954 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:18:35,989 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:18:36,009 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:18:41,474 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:41] "GET / HTTP/1.1" 200 -
+2025-04-07 05:18:41,995 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:41] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:18:42,050 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:18:42,137 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:18:43,174 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:43] "GET / HTTP/1.1" 200 -
+2025-04-07 05:18:44,809 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:44] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:45,645 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:45] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:46,655 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:46] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:47,654 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:47] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:48,647 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:48] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:49,648 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:50,646 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:50] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:51,657 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:51] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:52,655 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:52] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:53,653 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:53] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:54,654 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:54] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:55,649 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:55] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:56,642 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:56] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:57,644 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:57] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:58,663 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:58] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:18:59,642 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:18:59] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:00,641 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:00] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:01,657 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:01] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:02,659 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:02] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:03,641 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:03] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:04,657 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:04] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:05,659 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:05] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:06,655 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:06] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:07,639 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:07] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:08,654 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:09,641 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:09] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:10,643 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:10] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:11,640 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:11] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:12,649 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:12] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:13,659 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:13] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:14,536 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:14] "GET / HTTP/1.1" 200 -
+2025-04-07 05:19:14,578 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:19:14,584 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:14] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:19:14,590 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:19:14,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:14] "GET / HTTP/1.1" 200 -
+2025-04-07 05:19:15,719 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:15] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:16,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:16] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:17,718 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:17] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:18,703 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:18] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:19,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:19] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:20,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:20] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:21,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:21] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:22,717 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:22] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:23,708 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:23] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:24,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:24] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:25,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:25] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:26,709 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:26] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:27,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:27] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:28,711 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:28] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:29,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:29] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:30,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:30] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:31,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:31] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:32,702 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:32] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:33,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:33] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:34,717 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:34] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:35,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:35] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:36,707 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:36] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:37,712 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:37] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:38,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:38] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:39,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:39] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:40,711 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:40] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:41,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:41] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:42,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:42] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:43,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:43] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:44,707 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:44] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:45,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:45] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:46,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:46] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:47,718 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:47] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:48,708 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:48] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:49,708 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:50,711 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:50] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:51,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:51] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:52,706 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:52] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:53,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:53] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:19:54,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:19:54] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:06,993 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:24:06,994 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:24:07,000 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:24:07,079 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:24:07,080 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:24:07,080 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:24:08,447 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:24:08,449 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:24:08,456 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:24:08,489 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:24:08,496 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:24:08,577 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,608 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,641 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,668 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,677 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,691 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:08,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:09,721 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:09] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:10,712 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:10] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:11,712 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:11] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:12,711 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:12] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:13,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:13] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:14,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:14] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:15,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:15] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:16,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:16] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:17,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:17] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:18,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:18] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:19,730 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:19] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:20,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:20] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:21,189 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:21] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:21,344 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:21] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:24:21,372 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:21] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 05:24:21,373 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:21] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:24:21,435 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:21] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:22,409 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:22] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:23,404 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:23] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:24,402 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:24] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:25,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:25] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:26,404 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:26] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:27,421 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:27] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:28,408 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:28] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:29,404 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:29] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:30,405 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:30] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:31,403 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:31] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:32,407 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:32] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:33,405 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:33] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:34,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:34] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:35,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:35] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:36,411 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:36] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:37,402 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:37] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:38,408 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:38] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:39,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:39] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:40,400 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:40] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:41,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:41] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:42,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:42] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:43,406 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:43] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:44,408 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:44] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:45,404 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:45] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:46,407 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:46] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:46,987 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:46] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:47,035 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:24:47,043 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:47] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:24:47,046 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:24:47,195 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:47] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:48,171 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:48,440 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:48,507 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:24:48,509 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:24:48,510 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:24:48,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:48] "GET / HTTP/1.1" 200 -
+2025-04-07 05:24:49,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:50,721 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:50] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:51,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:51] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:52,724 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:52] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:53,728 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:53] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:54,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:54] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:55,724 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:55] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:56,719 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:56] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:57,726 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:57] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:58,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:58] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:24:59,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:24:59] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:00,723 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:00] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:01,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:01] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:02,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:02] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:03,724 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:03] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:04,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:04] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:05,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:05] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:06,721 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:06] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:07,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:07] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:08,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:08] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:09,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:09] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:10,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:10] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:11,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:11] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:12,710 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:12] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:13,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:13] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:14,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:14] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:15,721 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:15] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:16,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:16] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:17,712 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:17] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:18,723 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:18] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:19,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:19] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:20,717 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:20] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:25:21,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:25:21] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:48,211 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:27:48,212 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:27:48,218 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:27:48,277 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:27:48,278 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:27:48,278 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:27:49,484 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:27:49,485 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:27:49,491 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:27:49,523 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:27:49,529 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:27:49,608 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:49,612 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:49,626 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:49,636 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:49,646 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:49,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:49] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:50,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:50] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:51,714 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:51] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:52,725 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:52] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:53,723 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:53] "[33mGET /get_data HTTP/1.1[0m" 404 -
+2025-04-07 05:27:53,774 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:53] "GET / HTTP/1.1" 200 -
+2025-04-07 05:27:53,946 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:27:53,964 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:53] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 05:27:53,976 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:53] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,179 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "GET /socket.io/?EIO=4&transport=polling&t=POFa-ej HTTP/1.1" 200 -
+2025-04-07 05:27:54,184 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "GET / HTTP/1.1" 200 -
+2025-04-07 05:27:54,353 - suikoden_web - INFO - Client connected: FVU9UzotLNOyj3hVAAAB
+2025-04-07 05:27:54,355 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "POST /socket.io/?EIO=4&transport=polling&t=POFa-hX&sid=mvFp3skNZJ1iDp3jAAAA HTTP/1.1" 200 -
+2025-04-07 05:27:54,357 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "GET /socket.io/?EIO=4&transport=polling&t=POFa-ha&sid=mvFp3skNZJ1iDp3jAAAA HTTP/1.1" 200 -
+2025-04-07 05:27:54,412 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "GET /socket.io/?EIO=4&transport=polling&t=POFa-ia&sid=mvFp3skNZJ1iDp3jAAAA HTTP/1.1" 200 -
+2025-04-07 05:27:54,440 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:27:54,505 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,507 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,507 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:27:54,509 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:27:54] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:28:50,174 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:28:50,175 - suikoden_web - INFO - Party externally updated by FVU9UzotLNOyj3hVAAAB
+2025-04-07 05:29:05,171 - suikoden_web - INFO - Character selected: Blackman
+2025-04-07 05:29:19,996 - suikoden_web - INFO - Character selected: Blackman
+2025-04-07 05:29:22,498 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:29:22] "GET /static/img/Chandler.png HTTP/1.1" 200 -
+2025-04-07 05:29:22,499 - suikoden_web - INFO - Character selected: Chandler
+2025-04-07 05:29:32,674 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 05:29:41,656 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:29:41,659 - suikoden_web - INFO - Moved Alen from slot 1 to slot 2
+2025-04-07 05:29:45,975 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 05:29:46,990 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 05:29:58,889 - suikoden_web - INFO - Character selected: Antonio
+2025-04-07 05:29:58,909 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:29:58] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:30:00,201 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:30:00,208 - suikoden_web - INFO - Added Antonio to party slot 5
+2025-04-07 05:30:01,526 - suikoden_web - INFO - Character selected: Apple
+2025-04-07 05:30:02,475 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:30:02,483 - suikoden_web - INFO - Added Apple to party slot 4
+2025-04-07 05:30:04,513 - suikoden_web - INFO - Character selected: Camille
+2025-04-07 05:30:08,609 - suikoden_web - INFO - Character selected: Camille
+2025-04-07 05:30:26,644 - suikoden_web - INFO - Character selected: Chandler
+2025-04-07 05:30:26,645 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:26] "[36mGET /static/img/Chandler.png HTTP/1.1[0m" 304 -
+2025-04-07 05:30:31,451 - suikoden_web - INFO - Character selected: Crowley
+2025-04-07 05:30:31,453 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:31] "GET /static/img/Crowley.png HTTP/1.1" 200 -
+2025-04-07 05:30:32,556 - suikoden_web - INFO - Character selected: Clive
+2025-04-07 05:30:32,558 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:32] "GET /static/img/Clive.png HTTP/1.1" 200 -
+2025-04-07 05:30:33,292 - suikoden_web - INFO - Character selected: Cleo
+2025-04-07 05:30:33,307 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:33] "GET /static/img/Cleo.png HTTP/1.1" 200 -
+2025-04-07 05:30:37,143 - suikoden_web - INFO - Character selected: Clive
+2025-04-07 05:30:37,145 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:37] "[36mGET /static/img/Clive.png HTTP/1.1[0m" 304 -
+2025-04-07 05:30:38,745 - suikoden_web - INFO - Character selected: Camille
+2025-04-07 05:30:38,750 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:30:38] "[36mGET /static/img/Camille.png HTTP/1.1[0m" 304 -
+2025-04-07 05:30:39,359 - suikoden_web - INFO - Character selected: Camille
+2025-04-07 05:31:19,172 - suikoden_web - INFO - Client disconnected: FVU9UzotLNOyj3hVAAAB
+2025-04-07 05:31:19,188 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "GET /socket.io/?EIO=4&transport=websocket&sid=mvFp3skNZJ1iDp3jAAAA HTTP/1.1" 200 -
+2025-04-07 05:31:19,194 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "GET / HTTP/1.1" 200 -
+2025-04-07 05:31:19,278 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:31:19,286 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:19,286 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:31:19,707 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "GET /socket.io/?EIO=4&transport=polling&t=POFbmq0 HTTP/1.1" 200 -
+2025-04-07 05:31:19,707 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:19] "GET / HTTP/1.1" 200 -
+2025-04-07 05:31:20,310 - suikoden_web - INFO - Client connected: 0-Ukc0Dkq4n1dLt2AAAD
+2025-04-07 05:31:20,311 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "POST /socket.io/?EIO=4&transport=polling&t=POFbmzn&sid=lete-kZs1B_YJY-HAAAC HTTP/1.1" 200 -
+2025-04-07 05:31:20,337 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "GET /socket.io/?EIO=4&transport=polling&t=POFbmzo&sid=lete-kZs1B_YJY-HAAAC HTTP/1.1" 200 -
+2025-04-07 05:31:20,410 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "GET /socket.io/?EIO=4&transport=polling&t=POFbm_L&sid=lete-kZs1B_YJY-HAAAC HTTP/1.1" 200 -
+2025-04-07 05:31:20,431 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:31:20,464 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:20,470 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:20,489 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:20,493 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:20,496 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:20,504 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:31:20] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:31:31,905 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:31:31,923 - suikoden_web - INFO - Party externally updated by 0-Ukc0Dkq4n1dLt2AAAD
+2025-04-07 05:31:33,001 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:31:33,002 - suikoden_web - INFO - Party externally updated by 0-Ukc0Dkq4n1dLt2AAAD
+2025-04-07 05:31:34,005 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:31:34,005 - suikoden_web - INFO - Party externally updated by 0-Ukc0Dkq4n1dLt2AAAD
+2025-04-07 05:42:58,523 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:42:58,537 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:42:58,539 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:42:58,560 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:42:58,560 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:42:58,560 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:42:58,961 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:42:58,961 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:42:58,964 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:42:58,973 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:42:58,975 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:43:02,982 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:02] "GET / HTTP/1.1" 200 -
+2025-04-07 05:43:03,185 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:03] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:43:03,186 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:43:03,189 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:03] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:03,555 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:03] "GET /socket.io/?EIO=4&transport=polling&t=POFeSfr HTTP/1.1" 200 -
+2025-04-07 05:43:03,762 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:03] "GET / HTTP/1.1" 200 -
+2025-04-07 05:43:04,204 - suikoden_web - INFO - Client connected: Um3_eIY_VBXySDwOAAAB
+2025-04-07 05:43:04,204 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "POST /socket.io/?EIO=4&transport=polling&t=POFeSq5&sid=qOOHZj4q7WXzzbsEAAAA HTTP/1.1" 200 -
+2025-04-07 05:43:04,208 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "GET /socket.io/?EIO=4&transport=polling&t=POFeSq6&sid=qOOHZj4q7WXzzbsEAAAA HTTP/1.1" 200 -
+2025-04-07 05:43:04,324 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "GET /socket.io/?EIO=4&transport=polling&t=POFeSry&sid=qOOHZj4q7WXzzbsEAAAA HTTP/1.1" 200 -
+2025-04-07 05:43:04,341 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:43:04,416 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:04,435 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:04,437 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:04,440 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:04,443 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:04,448 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:43:04] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:43:10,442 - suikoden_web - INFO - Character selected: Blackman
+2025-04-07 05:43:19,317 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:43:19,318 - suikoden_web - INFO - Party externally updated by Um3_eIY_VBXySDwOAAAB
+2025-04-07 05:43:21,152 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:43:21,153 - suikoden_web - INFO - Party externally updated by Um3_eIY_VBXySDwOAAAB
+2025-04-07 05:44:23,969 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:44:23,971 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:44:23,973 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:44:23,993 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:44:23,994 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:44:23,994 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:44:24,412 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:44:24,412 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:44:24,414 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:44:24,424 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:44:24,426 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:44:25,609 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:25] "GET / HTTP/1.1" 200 -
+2025-04-07 05:44:25,759 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:25] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:25,760 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:25] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:44:25,767 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:44:26,143 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:26] "GET /socket.io/?EIO=4&transport=polling&t=POFemqH HTTP/1.1" 200 -
+2025-04-07 05:44:26,149 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:26] "GET / HTTP/1.1" 200 -
+2025-04-07 05:44:26,835 - suikoden_web - INFO - Client connected: zRNgHZmo08V2iBkLAAAB
+2025-04-07 05:44:26,837 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:26] "POST /socket.io/?EIO=4&transport=polling&t=POFem_E&sid=V_oHk9jOKcALMQ_yAAAA HTTP/1.1" 200 -
+2025-04-07 05:44:26,842 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:26] "GET /socket.io/?EIO=4&transport=polling&t=POFem_F&sid=V_oHk9jOKcALMQ_yAAAA HTTP/1.1" 200 -
+2025-04-07 05:44:26,953 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:26] "GET /socket.io/?EIO=4&transport=polling&t=POFen15&sid=V_oHk9jOKcALMQ_yAAAA HTTP/1.1" 200 -
+2025-04-07 05:44:26,978 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:44:27,021 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:27,030 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:27,033 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:27,040 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:27,057 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:27,058 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:44:27] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:44:34,182 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 05:44:36,217 - suikoden_web - INFO - Character selected: Antonio
+2025-04-07 05:44:39,102 - suikoden_web - INFO - Character selected: Alen
+2025-04-07 05:44:54,444 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:44:54,448 - suikoden_web - INFO - Party externally updated by zRNgHZmo08V2iBkLAAAB
+2025-04-07 05:48:03,198 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:48:03,199 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:48:03,201 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:48:03,252 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 05:48:03,253 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:48:03,253 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 05:48:03,646 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:48:03,647 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:48:03,649 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 05:48:03,658 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 05:48:03,661 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 05:48:04,895 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:04] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:05,081 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:05] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:05,084 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:05] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:48:05,087 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:48:05,489 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:05] "GET /socket.io/?EIO=4&transport=polling&t=POFfcNV HTTP/1.1" 200 -
+2025-04-07 05:48:05,496 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:05] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:06,315 - suikoden_web - INFO - Client connected: zR5bS6MM1SNjKa6xAAAB
+2025-04-07 05:48:06,316 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "POST /socket.io/?EIO=4&transport=polling&t=POFfcaZ&sid=k7ac8cp2i2zsEo_0AAAA HTTP/1.1" 200 -
+2025-04-07 05:48:06,320 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "GET /socket.io/?EIO=4&transport=polling&t=POFfcac&sid=k7ac8cp2i2zsEo_0AAAA HTTP/1.1" 200 -
+2025-04-07 05:48:06,475 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:48:06,476 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "POST /socket.io/?EIO=4&transport=polling&t=POFfcc_&sid=k7ac8cp2i2zsEo_0AAAA HTTP/1.1" 200 -
+2025-04-07 05:48:06,476 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "GET /socket.io/?EIO=4&transport=polling&t=POFfcd0&sid=k7ac8cp2i2zsEo_0AAAA HTTP/1.1" 200 -
+2025-04-07 05:48:06,539 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:06,540 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:06,540 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:06,540 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:06,543 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:06,552 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:06] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:25,670 - suikoden_web - INFO - Client disconnected: zR5bS6MM1SNjKa6xAAAB
+2025-04-07 05:48:25,690 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET /socket.io/?EIO=4&transport=websocket&sid=k7ac8cp2i2zsEo_0AAAA HTTP/1.1" 200 -
+2025-04-07 05:48:25,701 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:25,740 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:48:25,750 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:25,754 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:48:25,877 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:25,883 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET /socket.io/?EIO=4&transport=polling&t=POFfhM8 HTTP/1.1" 200 -
+2025-04-07 05:48:25,938 - suikoden_web - INFO - Client connected: qjRunyHGcrJYzyZqAAAD
+2025-04-07 05:48:25,942 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "POST /socket.io/?EIO=4&transport=polling&t=POFfhND&sid=RcaYQXq4ayiFj7TNAAAC HTTP/1.1" 200 -
+2025-04-07 05:48:25,945 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET /socket.io/?EIO=4&transport=polling&t=POFfhNE&sid=RcaYQXq4ayiFj7TNAAAC HTTP/1.1" 200 -
+2025-04-07 05:48:25,976 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:25] "GET /socket.io/?EIO=4&transport=polling&t=POFfhNp&sid=RcaYQXq4ayiFj7TNAAAC HTTP/1.1" 200 -
+2025-04-07 05:48:25,992 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:48:26,019 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:26,020 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:26,025 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:26,042 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:26,057 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:26,058 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:26] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,230 - suikoden_web - INFO - Client disconnected: qjRunyHGcrJYzyZqAAAD
+2025-04-07 05:48:28,252 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET /socket.io/?EIO=4&transport=websocket&sid=RcaYQXq4ayiFj7TNAAAC HTTP/1.1" 200 -
+2025-04-07 05:48:28,257 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:28,299 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,317 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,323 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,431 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET /socket.io/?EIO=4&transport=polling&t=POFfhzv HTTP/1.1" 200 -
+2025-04-07 05:48:28,433 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:28,474 - suikoden_web - INFO - Client connected: MG5FKn2fBwJC-NX-AAAF
+2025-04-07 05:48:28,474 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "POST /socket.io/?EIO=4&transport=polling&t=POFfh-s&sid=KNlp4LAvkjPc96M_AAAE HTTP/1.1" 200 -
+2025-04-07 05:48:28,487 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET /socket.io/?EIO=4&transport=polling&t=POFfh-s.0&sid=KNlp4LAvkjPc96M_AAAE HTTP/1.1" 200 -
+2025-04-07 05:48:28,522 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:48:28,522 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "POST /socket.io/?EIO=4&transport=polling&t=POFfh_Z&sid=KNlp4LAvkjPc96M_AAAE HTTP/1.1" 200 -
+2025-04-07 05:48:28,532 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "GET /socket.io/?EIO=4&transport=polling&t=POFfh_a&sid=KNlp4LAvkjPc96M_AAAE HTTP/1.1" 200 -
+2025-04-07 05:48:28,575 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,583 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,589 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,599 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,599 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:28,601 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:28] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,500 - suikoden_web - INFO - Client disconnected: MG5FKn2fBwJC-NX-AAAF
+2025-04-07 05:48:39,504 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET /socket.io/?EIO=4&transport=websocket&sid=KNlp4LAvkjPc96M_AAAE HTTP/1.1" 200 -
+2025-04-07 05:48:39,518 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:39,559 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:48:39,568 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,570 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,688 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET /socket.io/?EIO=4&transport=polling&t=POFfkjy HTTP/1.1" 200 -
+2025-04-07 05:48:39,698 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:39,755 - suikoden_web - INFO - Client connected: FEiDZRUSuKit7Ps1AAAH
+2025-04-07 05:48:39,755 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "POST /socket.io/?EIO=4&transport=polling&t=POFfkl5&sid=KJgK5oOzJU-RN7KiAAAG HTTP/1.1" 200 -
+2025-04-07 05:48:39,762 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET /socket.io/?EIO=4&transport=polling&t=POFfkl6&sid=KJgK5oOzJU-RN7KiAAAG HTTP/1.1" 200 -
+2025-04-07 05:48:39,801 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "GET /socket.io/?EIO=4&transport=polling&t=POFfklh&sid=KJgK5oOzJU-RN7KiAAAG HTTP/1.1" 200 -
+2025-04-07 05:48:39,820 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:48:39,869 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,871 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,871 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,871 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,874 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:39,878 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:39] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,331 - suikoden_web - INFO - Client disconnected: FEiDZRUSuKit7Ps1AAAH
+2025-04-07 05:48:55,333 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET /socket.io/?EIO=4&transport=websocket&sid=KJgK5oOzJU-RN7KiAAAG HTTP/1.1" 200 -
+2025-04-07 05:48:55,346 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:55,392 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:48:55,398 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,399 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET / HTTP/1.1" 200 -
+2025-04-07 05:48:55,506 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET /socket.io/?EIO=4&transport=polling&t=POFfob9 HTTP/1.1" 200 -
+2025-04-07 05:48:55,579 - suikoden_web - INFO - Client connected: jrwsTewQzvjJheYaAAAJ
+2025-04-07 05:48:55,582 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "POST /socket.io/?EIO=4&transport=polling&t=POFfocJ&sid=InPRvpRLdsnUDl3lAAAI HTTP/1.1" 200 -
+2025-04-07 05:48:55,583 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET /socket.io/?EIO=4&transport=polling&t=POFfocK&sid=InPRvpRLdsnUDl3lAAAI HTTP/1.1" 200 -
+2025-04-07 05:48:55,632 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:48:55,632 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "POST /socket.io/?EIO=4&transport=polling&t=POFfocz&sid=InPRvpRLdsnUDl3lAAAI HTTP/1.1" 200 -
+2025-04-07 05:48:55,634 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "GET /socket.io/?EIO=4&transport=polling&t=POFfoc-&sid=InPRvpRLdsnUDl3lAAAI HTTP/1.1" 200 -
+2025-04-07 05:48:55,678 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,680 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,683 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,699 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:48:55,705 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:48:55] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,580 - suikoden_web - INFO - Client disconnected: jrwsTewQzvjJheYaAAAJ
+2025-04-07 05:49:11,582 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET /socket.io/?EIO=4&transport=websocket&sid=InPRvpRLdsnUDl3lAAAI HTTP/1.1" 200 -
+2025-04-07 05:49:11,586 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET / HTTP/1.1" 200 -
+2025-04-07 05:49:11,623 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-07 05:49:11,639 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,641 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,758 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET /socket.io/?EIO=4&transport=polling&t=POFfsZ5 HTTP/1.1" 200 -
+2025-04-07 05:49:11,763 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET / HTTP/1.1" 200 -
+2025-04-07 05:49:11,824 - suikoden_web - INFO - Client connected: U0jG_JlSJszF0zNMAAAL
+2025-04-07 05:49:11,824 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "POST /socket.io/?EIO=4&transport=polling&t=POFfsa9&sid=TDifxL29u_YRmzL8AAAK HTTP/1.1" 200 -
+2025-04-07 05:49:11,827 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET /socket.io/?EIO=4&transport=polling&t=POFfsaA&sid=TDifxL29u_YRmzL8AAAK HTTP/1.1" 200 -
+2025-04-07 05:49:11,870 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:49:11,870 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "POST /socket.io/?EIO=4&transport=polling&t=POFfsas&sid=TDifxL29u_YRmzL8AAAK HTTP/1.1" 200 -
+2025-04-07 05:49:11,873 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "GET /socket.io/?EIO=4&transport=polling&t=POFfsat&sid=TDifxL29u_YRmzL8AAAK HTTP/1.1" 200 -
+2025-04-07 05:49:11,929 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,934 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,937 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,939 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,941 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:11,942 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:49:11] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:49:24,571 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:49:24,571 - suikoden_web - INFO - Party externally updated by U0jG_JlSJszF0zNMAAAL
+2025-04-07 05:50:45,859 - suikoden_web - INFO - Client disconnected: U0jG_JlSJszF0zNMAAAL
+2025-04-07 05:50:45,871 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:45] "GET /socket.io/?EIO=4&transport=websocket&sid=TDifxL29u_YRmzL8AAAK HTTP/1.1" 200 -
+2025-04-07 05:50:45,881 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:45] "GET / HTTP/1.1" 200 -
+2025-04-07 05:50:45,957 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:50:45,969 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:45] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:45,975 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,104 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "GET /socket.io/?EIO=4&transport=polling&t=POFgDbH HTTP/1.1" 200 -
+2025-04-07 05:50:46,120 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "GET / HTTP/1.1" 200 -
+2025-04-07 05:50:46,227 - suikoden_web - INFO - Client connected: k1Py1IL9Upclik4fAAAN
+2025-04-07 05:50:46,229 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "POST /socket.io/?EIO=4&transport=polling&t=POFgDc-&sid=vhrVRUck0ewvUmT_AAAM HTTP/1.1" 200 -
+2025-04-07 05:50:46,233 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "GET /socket.io/?EIO=4&transport=polling&t=POFgDd0&sid=vhrVRUck0ewvUmT_AAAM HTTP/1.1" 200 -
+2025-04-07 05:50:46,322 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "GET /socket.io/?EIO=4&transport=polling&t=POFgDeH&sid=vhrVRUck0ewvUmT_AAAM HTTP/1.1" 200 -
+2025-04-07 05:50:46,347 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:50:46,371 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,373 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,375 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,381 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,391 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:50:46,392 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:50:46] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:13,537 - suikoden_web - INFO - Client disconnected: k1Py1IL9Upclik4fAAAN
+2025-04-07 05:52:13,539 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:13] "GET /socket.io/?EIO=4&transport=websocket&sid=vhrVRUck0ewvUmT_AAAM HTTP/1.1" 200 -
+2025-04-07 05:52:13,542 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:13] "GET / HTTP/1.1" 200 -
+2025-04-07 05:52:13,621 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:52:13,638 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:13] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:13,651 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:13] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,003 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "GET /socket.io/?EIO=4&transport=polling&t=POFgZ2g HTTP/1.1" 200 -
+2025-04-07 05:52:14,005 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "GET / HTTP/1.1" 200 -
+2025-04-07 05:52:14,551 - suikoden_web - INFO - Client connected: tBmO0IIraR2y__kMAAAP
+2025-04-07 05:52:14,552 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "POST /socket.io/?EIO=4&transport=polling&t=POFgZB7&sid=uuzQKonypGv8z-nVAAAO HTTP/1.1" 200 -
+2025-04-07 05:52:14,552 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "GET /socket.io/?EIO=4&transport=polling&t=POFgZBA&sid=uuzQKonypGv8z-nVAAAO HTTP/1.1" 200 -
+2025-04-07 05:52:14,651 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:52:14,652 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "POST /socket.io/?EIO=4&transport=polling&t=POFgZCt&sid=uuzQKonypGv8z-nVAAAO HTTP/1.1" 200 -
+2025-04-07 05:52:14,654 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "GET /socket.io/?EIO=4&transport=polling&t=POFgZCt.0&sid=uuzQKonypGv8z-nVAAAO HTTP/1.1" 200 -
+2025-04-07 05:52:14,713 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,716 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,722 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,744 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,755 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:14,758 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:14] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:17,789 - suikoden_web - INFO - Client disconnected: tBmO0IIraR2y__kMAAAP
+2025-04-07 05:52:17,804 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "GET /socket.io/?EIO=4&transport=websocket&sid=uuzQKonypGv8z-nVAAAO HTTP/1.1" 200 -
+2025-04-07 05:52:17,812 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "GET / HTTP/1.1" 200 -
+2025-04-07 05:52:17,849 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:52:17,865 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:17,867 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:52:17,995 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "GET / HTTP/1.1" 200 -
+2025-04-07 05:52:17,997 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:17] "GET /socket.io/?EIO=4&transport=polling&t=POFga0w HTTP/1.1" 200 -
+2025-04-07 05:52:18,052 - suikoden_web - INFO - Client connected: T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:52:18,053 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "POST /socket.io/?EIO=4&transport=polling&t=POFga20&sid=g5KcXJ9aSDzRi3g9AAAQ HTTP/1.1" 200 -
+2025-04-07 05:52:18,056 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "GET /socket.io/?EIO=4&transport=polling&t=POFga21&sid=g5KcXJ9aSDzRi3g9AAAQ HTTP/1.1" 200 -
+2025-04-07 05:52:18,087 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "GET /socket.io/?EIO=4&transport=polling&t=POFga2Z&sid=g5KcXJ9aSDzRi3g9AAAQ HTTP/1.1" 200 -
+2025-04-07 05:52:18,105 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:52:18,142 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:18,149 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:18,150 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:18,153 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:18,163 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:52:18,165 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:52:18] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:53:32,649 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:53:32,649 - suikoden_web - INFO - Party externally updated by T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:53:33,502 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:53:33,502 - suikoden_web - INFO - Party externally updated by T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:53:33,756 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:53:33,757 - suikoden_web - INFO - Party externally updated by T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:53:33,962 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 05:53:33,962 - suikoden_web - INFO - Party externally updated by T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:53:34,948 - suikoden_web - INFO - Character selected: Fuma
+2025-04-07 05:53:34,956 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:53:34] "GET /static/img/Fuma.png HTTP/1.1" 200 -
+2025-04-07 05:53:38,451 - suikoden_web - INFO - Character selected: Fu Su Lu
+2025-04-07 05:53:38,470 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:53:38] "GET /static/img/Fu-Su-Lu.png HTTP/1.1" 200 -
+2025-04-07 05:53:39,988 - suikoden_web - INFO - Character selected: Fukian
+2025-04-07 05:53:39,988 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:53:39] "GET /static/img/Fukian.png HTTP/1.1" 200 -
+2025-04-07 05:53:42,197 - suikoden_web - INFO - Character selected: Esmeralda
+2025-04-07 05:53:42,200 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:53:42] "GET /static/img/Esmeralda.png HTTP/1.1" 200 -
+2025-04-07 05:56:02,452 - suikoden_web - INFO - Client disconnected: T7ce3d_7FudUfbp3AAAR
+2025-04-07 05:56:02,475 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET /socket.io/?EIO=4&transport=websocket&sid=g5KcXJ9aSDzRi3g9AAAQ HTTP/1.1" 200 -
+2025-04-07 05:56:02,485 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET / HTTP/1.1" 200 -
+2025-04-07 05:56:02,564 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,581 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,582 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,699 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET /socket.io/?EIO=4&transport=polling&t=POFhQu2 HTTP/1.1" 200 -
+2025-04-07 05:56:02,717 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET / HTTP/1.1" 200 -
+2025-04-07 05:56:02,825 - suikoden_web - INFO - Client connected: OMWX5RJodAo_q19bAAAT
+2025-04-07 05:56:02,826 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "POST /socket.io/?EIO=4&transport=polling&t=POFhQvo&sid=u1yCWedFntWer1F7AAAS HTTP/1.1" 200 -
+2025-04-07 05:56:02,830 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET /socket.io/?EIO=4&transport=polling&t=POFhQvq&sid=u1yCWedFntWer1F7AAAS HTTP/1.1" 200 -
+2025-04-07 05:56:02,908 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "GET /socket.io/?EIO=4&transport=polling&t=POFhQx0&sid=u1yCWedFntWer1F7AAAS HTTP/1.1" 200 -
+2025-04-07 05:56:02,939 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:56:02,981 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,991 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,993 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:02,998 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:02] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:03,002 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:03,004 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:03,901 - suikoden_web - INFO - Client disconnected: OMWX5RJodAo_q19bAAAT
+2025-04-07 05:56:03,902 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "GET /socket.io/?EIO=4&transport=websocket&sid=u1yCWedFntWer1F7AAAS HTTP/1.1" 200 -
+2025-04-07 05:56:03,923 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "GET / HTTP/1.1" 200 -
+2025-04-07 05:56:03,980 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 05:56:03,985 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:03,989 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,129 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "GET / HTTP/1.1" 200 -
+2025-04-07 05:56:04,131 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "GET /socket.io/?EIO=4&transport=polling&t=POFhRE2 HTTP/1.1" 200 -
+2025-04-07 05:56:04,188 - suikoden_web - INFO - Client connected: BAbUWd2RbjR4XolZAAAV
+2025-04-07 05:56:04,189 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "POST /socket.io/?EIO=4&transport=polling&t=POFhRFO&sid=E_CSlbm6bENEWgqHAAAU HTTP/1.1" 200 -
+2025-04-07 05:56:04,195 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "GET /socket.io/?EIO=4&transport=polling&t=POFhRFP&sid=E_CSlbm6bENEWgqHAAAU HTTP/1.1" 200 -
+2025-04-07 05:56:04,233 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:56:04,233 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "POST /socket.io/?EIO=4&transport=polling&t=POFhRG1&sid=E_CSlbm6bENEWgqHAAAU HTTP/1.1" 200 -
+2025-04-07 05:56:04,236 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "GET /socket.io/?EIO=4&transport=polling&t=POFhRG2&sid=E_CSlbm6bENEWgqHAAAU HTTP/1.1" 200 -
+2025-04-07 05:56:04,285 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,285 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,294 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,296 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,299 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 05:56:04,304 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:56:04] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 06:08:52,458 - suikoden_web - INFO - Client disconnected: BAbUWd2RbjR4XolZAAAV
+2025-04-07 06:08:52,459 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:08:52] "GET /socket.io/?EIO=4&transport=websocket&sid=E_CSlbm6bENEWgqHAAAU HTTP/1.1" 200 -
+2025-04-07 06:09:16,454 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:16] "GET /socket.io/?EIO=4&transport=polling&t=POFkSgN HTTP/1.1" 200 -
+2025-04-07 06:09:16,718 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:16] "GET / HTTP/1.1" 200 -
+2025-04-07 06:09:17,228 - suikoden_web - INFO - Client connected: _m0dVxewh6CVic_gAAAX
+2025-04-07 06:09:17,228 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "POST /socket.io/?EIO=4&transport=polling&t=POFkSsd&sid=kGgk-7InucMbT10IAAAW HTTP/1.1" 200 -
+2025-04-07 06:09:17,239 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "GET /socket.io/?EIO=4&transport=polling&t=POFkSsi&sid=kGgk-7InucMbT10IAAAW HTTP/1.1" 200 -
+2025-04-07 06:09:17,344 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 06:09:17,344 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "POST /socket.io/?EIO=4&transport=polling&t=POFkSuG&sid=kGgk-7InucMbT10IAAAW HTTP/1.1" 200 -
+2025-04-07 06:09:17,346 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "GET /socket.io/?EIO=4&transport=polling&t=POFkSuG.0&sid=kGgk-7InucMbT10IAAAW HTTP/1.1" 200 -
+2025-04-07 06:09:17,424 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:17,433 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:17,439 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:17,444 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:17,448 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:17,453 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:17] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,547 - suikoden_web - INFO - Client disconnected: _m0dVxewh6CVic_gAAAX
+2025-04-07 06:09:18,559 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "GET /socket.io/?EIO=4&transport=websocket&sid=kGgk-7InucMbT10IAAAW HTTP/1.1" 200 -
+2025-04-07 06:09:18,569 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "GET / HTTP/1.1" 200 -
+2025-04-07 06:09:18,669 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,684 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,684 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,762 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "GET /socket.io/?EIO=4&transport=polling&t=POFkTEM HTTP/1.1" 200 -
+2025-04-07 06:09:18,764 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "GET / HTTP/1.1" 200 -
+2025-04-07 06:09:18,851 - suikoden_web - INFO - Client connected: T0jX7ts1PsSI16zWAAAZ
+2025-04-07 06:09:18,851 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "POST /socket.io/?EIO=4&transport=polling&t=POFkTFH&sid=-GzT_yfNn0QRGXtdAAAY HTTP/1.1" 200 -
+2025-04-07 06:09:18,854 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "GET /socket.io/?EIO=4&transport=polling&t=POFkTFH.0&sid=-GzT_yfNn0QRGXtdAAAY HTTP/1.1" 200 -
+2025-04-07 06:09:18,870 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 06:09:18,897 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,899 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,902 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,903 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,904 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 06:09:18,905 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:18] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:16,115 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 12:41:16,129 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 12:41:16,132 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 12:41:16,160 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+2025-04-07 12:41:16,160 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:41:16,161 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 12:41:16,569 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 12:41:16,569 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 12:41:16,571 - suikoden_web - INFO - Starting Suikoden Display web server...
+2025-04-07 12:41:16,581 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 12:41:16,585 - werkzeug - INFO -  * Debugger PIN: 602-290-413
+2025-04-07 12:41:27,728 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:27] "GET / HTTP/1.1" 200 -
+2025-04-07 12:41:27,945 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 12:41:27,954 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:27] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:27,958 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,245 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "GET /socket.io/?EIO=4&transport=polling&t=POH8Dkg HTTP/1.1" 200 -
+2025-04-07 12:41:28,245 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "GET / HTTP/1.1" 200 -
+2025-04-07 12:41:28,791 - suikoden_web - INFO - Client connected: YE_LkCWw_pHX6XVXAAAB
+2025-04-07 12:41:28,792 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "POST /socket.io/?EIO=4&transport=polling&t=POH8DtH&sid=Aj1UWzECVLZKA21gAAAA HTTP/1.1" 200 -
+2025-04-07 12:41:28,829 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "GET /socket.io/?EIO=4&transport=polling&t=POH8DtJ&sid=Aj1UWzECVLZKA21gAAAA HTTP/1.1" 200 -
+2025-04-07 12:41:28,884 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "GET /socket.io/?EIO=4&transport=polling&t=POH8Dul&sid=Aj1UWzECVLZKA21gAAAA HTTP/1.1" 200 -
+2025-04-07 12:41:28,907 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 12:41:28,962 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 12:41:28,970 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,972 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,978 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,978 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,982 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 12:41:28,984 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:41:28] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:28,267 - suikoden_web - INFO - Client disconnected: YE_LkCWw_pHX6XVXAAAB
+2025-04-07 12:42:28,270 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:28] "GET /socket.io/?EIO=4&transport=websocket&sid=Aj1UWzECVLZKA21gAAAA HTTP/1.1" 200 -
+2025-04-07 12:42:32,446 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "GET / HTTP/1.1" 200 -
+2025-04-07 12:42:32,533 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,578 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/placeholder.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,585 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,729 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "GET /socket.io/?EIO=4&transport=polling&t=POH8TUA HTTP/1.1" 200 -
+2025-04-07 12:42:32,733 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "GET / HTTP/1.1" 200 -
+2025-04-07 12:42:32,853 - suikoden_web - INFO - Client connected: dXNYJClVYXBo6AMcAAAD
+2025-04-07 12:42:32,855 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "POST /socket.io/?EIO=4&transport=polling&t=POH8TW2&sid=SvxnTnlLmrHkW5ZjAAAC HTTP/1.1" 200 -
+2025-04-07 12:42:32,860 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "GET /socket.io/?EIO=4&transport=polling&t=POH8TW4&sid=SvxnTnlLmrHkW5ZjAAAC HTTP/1.1" 200 -
+2025-04-07 12:42:32,916 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "GET /socket.io/?EIO=4&transport=polling&t=POH8TW_&sid=SvxnTnlLmrHkW5ZjAAAC HTTP/1.1" 200 -
+2025-04-07 12:42:32,933 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 12:42:32,957 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,961 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Anji.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,965 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Alen.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,967 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Blackman.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,970 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Apple.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:32,972 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:42:32] "[36mGET /static/img/Antonio.png HTTP/1.1[0m" 304 -
+2025-04-07 12:42:36,133 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:36,134 - suikoden_web - INFO - Removed Tir McDohl from party slot 0
+2025-04-07 12:42:48,938 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:48,954 - suikoden_web - INFO - Removed Anji from party slot 1
+2025-04-07 12:42:50,454 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:50,454 - suikoden_web - INFO - Removed Alen from party slot 2
+2025-04-07 12:42:52,384 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:52,386 - suikoden_web - INFO - Removed Antonio from party slot 5
+2025-04-07 12:42:55,022 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:55,023 - suikoden_web - INFO - Removed Blackman from party slot 3
+2025-04-07 12:42:56,970 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:42:56,970 - suikoden_web - INFO - Removed Apple from party slot 4
+2025-04-07 12:44:07,721 - suikoden_web - INFO - Character selected: Tir McDohl
+2025-04-07 12:44:07,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:07] "[36mGET /static/img/Tir%20Mcdohl.png HTTP/1.1[0m" 304 -
+2025-04-07 12:44:09,997 - suikoden_web - INFO - Character selected: Tir McDohl
+2025-04-07 12:44:10,164 - suikoden_web - INFO - Character selected: Tir McDohl
+2025-04-07 12:44:11,375 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:11,378 - suikoden_web - INFO - Added Tir McDohl to party slot 0
+2025-04-07 12:44:16,393 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:16] "GET /static/img/Valeria.png HTTP/1.1" 200 -
+2025-04-07 12:44:16,394 - suikoden_web - INFO - Character selected: Valeria
+2025-04-07 12:44:17,820 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:17,821 - suikoden_web - INFO - Added Valeria to party slot 4
+2025-04-07 12:44:21,567 - suikoden_web - INFO - Character selected: Ted
+2025-04-07 12:44:21,570 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:21] "GET /static/img/Ted.png HTTP/1.1" 200 -
+2025-04-07 12:44:22,317 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:22,318 - suikoden_web - INFO - Added Ted to party slot 5
+2025-04-07 12:44:27,587 - suikoden_web - INFO - Character selected: Pahn
+2025-04-07 12:44:27,590 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:27] "GET /static/img/Pahn.png HTTP/1.1" 200 -
+2025-04-07 12:44:28,306 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:28,306 - suikoden_web - INFO - Added Pahn to party slot 3
+2025-04-07 12:44:36,303 - suikoden_web - INFO - Character selected: Gremio
+2025-04-07 12:44:36,310 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:36] "GET /static/img/Gremio.png HTTP/1.1" 200 -
+2025-04-07 12:44:38,936 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:38,938 - suikoden_web - INFO - Added Gremio to party slot 1
+2025-04-07 12:44:43,126 - suikoden_web - INFO - Character selected: Cleo
+2025-04-07 12:44:43,169 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:44:43] "GET /static/img/Cleo.png HTTP/1.1" 200 -
+2025-04-07 12:44:45,119 - suikoden_web - INFO - Party data saved successfully
+2025-04-07 12:44:45,120 - suikoden_web - INFO - Added Cleo to party slot 2
+2025-04-07 12:45:24,436 - suikoden_web - INFO - Character selected: Cleo
+2025-04-07 12:46:19,462 - suikoden_web - INFO - Client disconnected: dXNYJClVYXBo6AMcAAAD
+2025-04-07 12:46:19,463 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:46:19] "GET /socket.io/?EIO=4&transport=websocket&sid=SvxnTnlLmrHkW5ZjAAAC HTTP/1.1" 200 -

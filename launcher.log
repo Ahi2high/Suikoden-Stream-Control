@@ -1,0 +1,88 @@
+2025-04-07 01:07:00,328 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:07:01,323 - suikoden_launcher - WARNING - suikoden_gui.py not found, checking for alternative GUI files
+2025-04-07 01:07:01,327 - suikoden_launcher - INFO - Found potential GUI file: Suikoden Gui.py
+2025-04-07 01:07:01,632 - suikoden_launcher - ERROR - Error starting web interface: invalid syntax (web_interface.py, line 95)
+2025-04-07 01:07:03,341 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:07:03,341 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:07:03,358 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:08:08,590 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:08:09,575 - suikoden_launcher - WARNING - suikoden_gui.py not found, checking for alternative GUI files
+2025-04-07 01:08:09,577 - suikoden_launcher - INFO - Found potential GUI file: Suikoden Gui.py
+2025-04-07 01:08:09,820 - suikoden_launcher - ERROR - Error starting web interface: invalid syntax (web_interface.py, line 95)
+2025-04-07 01:08:11,588 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:08:11,588 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:08:11,665 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:09:53,561 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:09:54,415 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:09:54,419 - suikoden_launcher - ERROR - Error running GUI from module: No module named 'suikoden_gui'
+2025-04-07 01:09:55,558 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 01:09:55,562 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 01:09:55,567 - suikoden_launcher - INFO - Starting web interface on http://127.0.0.1:5000
+2025-04-07 01:09:55,593 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 01:09:55,594 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 01:09:56,429 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:09:56,431 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:09:56,568 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:16:23,863 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:16:24,661 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:16:24,664 - suikoden_launcher - ERROR - Error running GUI from module: No module named 'suikoden_gui'
+2025-04-07 01:16:24,921 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:16:26,676 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:16:26,676 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:16:26,792 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:17:56,494 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:17:57,288 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:17:57,292 - suikoden_launcher - ERROR - Error running GUI from module: No module named 'suikoden_gui'
+2025-04-07 01:17:57,503 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:17:59,301 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:17:59,303 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:17:59,426 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:18:20,169 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:18:21,007 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:18:21,009 - suikoden_launcher - ERROR - Error running GUI from module: No module named 'suikoden_gui'
+2025-04-07 01:18:21,271 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:18:23,018 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:18:23,019 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:18:23,146 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:19:14,212 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:19:14,964 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:19:14,966 - suikoden_launcher - ERROR - Error running GUI from module: No module named 'suikoden_gui'
+2025-04-07 01:19:15,230 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:19:16,977 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:19:16,982 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:19:17,098 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:21:32,789 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:21:33,461 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:21:33,577 - suikoden_launcher - WARNING - No main() function found in main.py, attempting to run module directly
+2025-04-07 01:21:33,660 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:21:33,689 - suikoden_launcher - ERROR - Error running GUI from module: name 'Image' is not defined
+2025-04-07 01:21:35,699 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:21:35,699 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:21:35,808 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 01:23:45,711 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 01:23:46,369 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 01:23:46,484 - suikoden_launcher - WARNING - No main() function found in main.py, attempting to run module directly
+2025-04-07 01:23:46,580 - suikoden_launcher - ERROR - Error starting web interface: expected 'except' or 'finally' block (web_interface.py, line 100)
+2025-04-07 01:23:46,596 - suikoden_launcher - ERROR - Error running GUI from module: name 'Image' is not defined
+2025-04-07 01:23:48,606 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 01:23:48,607 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 01:23:48,720 - suikoden_launcher - INFO - Shutdown complete
+2025-04-07 05:45:12,017 - suikoden_launcher - INFO - Starting Suikoden Display Launcher
+2025-04-07 05:45:12,380 - suikoden_launcher - INFO - Starting Suikoden GUI application
+2025-04-07 05:45:12,620 - suikoden_launcher - WARNING - No main() function found in main.py, attempting to run module directly
+2025-04-07 05:45:12,814 - suikoden_web - INFO - Loaded 111 characters from characters_processed.json
+2025-04-07 05:45:12,816 - suikoden_web - INFO - Loaded party data: 6 members
+2025-04-07 05:45:12,818 - suikoden_launcher - INFO - Starting web interface on http://127.0.0.1:5000
+2025-04-07 05:45:12,829 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 05:45:12,829 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 05:45:13,399 - suikoden_launcher - ERROR - Error running GUI from module: name 'Image' is not defined
+2025-04-07 05:45:14,758 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:45:14] "GET /socket.io/?EIO=4&transport=polling&t=POFeyi0 HTTP/1.1" 200 -
+2025-04-07 05:45:14,784 - suikoden_web - INFO - Client connected: fK68-k4GNeHWefTIAAAB
+2025-04-07 05:45:14,784 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:45:14] "POST /socket.io/?EIO=4&transport=polling&t=POFeyiE&sid=GvU45RCraSjto-xUAAAA HTTP/1.1" 200 -
+2025-04-07 05:45:14,793 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 05:45:14] "GET /socket.io/?EIO=4&transport=polling&t=POFeyiG&sid=GvU45RCraSjto-xUAAAA HTTP/1.1" 200 -
+2025-04-07 05:45:14,818 - suikoden_web - INFO - Sending initial data to client
+2025-04-07 05:45:15,408 - suikoden_launcher - INFO - Shutting down Suikoden Display...
+2025-04-07 05:45:15,409 - suikoden_launcher - INFO - Terminating GUI application
+2025-04-07 05:45:15,512 - suikoden_launcher - INFO - Shutdown complete
