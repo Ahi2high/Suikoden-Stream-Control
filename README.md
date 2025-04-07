@@ -1,40 +1,31 @@
-Suikoden I Stream Control
-Suikoden I Stream Control is a Tkinter-based desktop application designed to assist streamers in tracking and managing key aspects of Suikoden I gameplay. This application provides an intuitive interface with multiple tabs to monitor party members, the 108 Stars of Destiny, and recruitment progress.
+# Suikoden I Stream Control
 
-Features
-Dynamic Background Resizing – The application adjusts seamlessly to window size.
+Suikoden I Stream Control is a Tkinter-based desktop application designed to assist streamers in tracking and managing key aspects of *Suikoden I* gameplay. This application provides an intuitive interface with multiple tabs to monitor party members, the 108 Stars of Destiny, and recruitment progress.
 
-Party Management – View and organize your party members.
+## Features
+- **Dynamic Background Resizing** – The application adjusts seamlessly to window size.
+- **Party Management** – View and organize your party members.
+- **108 Stars of Destiny Tracking** – Keep track of all recruitable characters.
+- **Recruitment Progress** – Monitor which characters have been recruited and their conditions.
+- **Custom Themes & Styles** – Dark UI with Suikoden-inspired aesthetics.
+- **Real-time WebSocket Support** – Communicate with external applications or scripts.
 
-108 Stars of Destiny Tracking – Keep track of all recruitable characters.
+## Technologies Used
+- **Python** (Tkinter for UI)
+- **PIL (Pillow)** for image handling
+- **JSON** for storing character and recruitment data
+- **WebSocket** (for real-time server communication)
 
-Recruitment Progress – Monitor which characters have been recruited and their conditions.
+## Installation & Setup
 
-Custom Themes & Styles – Dark UI with Suikoden-inspired aesthetics.
+### Prerequisites
+Ensure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/).
 
-Real-time WebSocket Support – Communicate with external applications or scripts.
-
-Technologies Used
-Python (Tkinter for UI)
-
-PIL (Pillow) for image handling
-
-JSON for storing character and recruitment data
-
-WebSocket (for real-time server communication)
-
-Installation & Setup
-Prerequisites
-Ensure you have Python installed on your system. You can download it from Python's official website.
-
-Steps
-Clone the repository:
-
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/suikoden-stream-control.git
-cd suikoden-stream-control
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/suikoden-stream-control.git
+   cd suikoden-stream-control
 Install dependencies:
 
 sh
@@ -105,6 +96,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any inquiries or suggestions, reach out via GitHub Issues.
+For any inquiries or suggestions, reach out via GitHub Issues or email at your_email@example.com.
 
-🚀 Enhance your Suikoden I streaming experience with organization! real-time tracking (being workded on)
+🚀 Enhance your Suikoden I streaming experience with real-time tracking and organization!
