@@ -53,7 +53,7 @@ Contributions are welcome! If you find bugs or have suggestions for improvements
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries or suggestions, reach out via GitHub Issues or email at your_email@example.com.
+For any inquiries or suggestions, reach out via GitHub Issues or email at your_DreCalo46@gmail.com
 
 ---
 
