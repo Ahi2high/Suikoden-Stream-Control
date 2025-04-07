@@ -96,6 +96,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any inquiries or suggestions, reach out via GitHub Issues or email at your_email@example.com.
+For any inquiries or suggestions, reach out via GitHub Issues.
 
-🚀 Enhance your Suikoden I streaming experience with real-time tracking and organization!
+🚀 Enhance your Suikoden I streaming experience with organization!
